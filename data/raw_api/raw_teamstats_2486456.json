@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "08-03-2026 - 18:00",
+        "place": "CAMÍ DE LA VILETA Nº 40, Illes Balears (Palma de Mallorca)",
+        "field": "POLIDEPORTIVO DE SON MOIX",
+        "referee1": "LEZCANO, LEANDRO NICOLÁS",
+        "referee2": "LOPEZ HERRADA, ENRIQUE",
+        "referee3": "BERBEIRA ORIA, MANUEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "68",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            },
+            {
+                "pts": "73",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "24",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "11",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "19",
+                    "scoreB": "19"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "9",
+                "p1a": "15",
+                "p1p": "60,0",
+                "p2m": "22",
+                "p2a": "40",
+                "p2p": "55,0",
+                "p3m": "5",
+                "p3a": "18",
+                "p3p": "27,8",
+                "fgm": "27",
+                "fga": "58",
+                "fgp": "46,6",
+                "assist": "16",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "21",
+                "rt": "29",
+                "pf": "24",
+                "rf": "19",
+                "to": "17",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "68",
+                "fouls": "24",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            },
+            {
+                "p1m": "23",
+                "p1a": "28",
+                "p1p": "82,1",
+                "p2m": "16",
+                "p2a": "31",
+                "p2p": "51,6",
+                "p3m": "6",
+                "p3a": "24",
+                "p3p": "25,0",
+                "fgm": "22",
+                "fga": "55",
+                "fgp": "40,0",
+                "assist": "15",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "24",
+                "rt": "33",
+                "pf": "19",
+                "rf": "24",
+                "to": "18",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "73",
+                "fouls": "19",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

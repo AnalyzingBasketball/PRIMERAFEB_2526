@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "08-03-2026 - 18:30",
+        "place": "CALLE SERRANO 129, Madrid (Madrid)",
+        "field": "MOVISTAR ACADEMY MAGARIÑOS",
+        "referee1": "RIAL BARREIRO, JACOBO",
+        "referee2": "MORALES Gª-ALCAIDE, JUAN P.",
+        "referee3": "CALVO ACEÑA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "85",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "78",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "16",
+                    "scoreB": "31"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "25",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "26",
+                    "scoreB": "13"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "18",
+                "p1a": "20",
+                "p1p": "90,0",
+                "p2m": "11",
+                "p2a": "24",
+                "p2p": "45,8",
+                "p3m": "15",
+                "p3a": "31",
+                "p3p": "48,4",
+                "fgm": "26",
+                "fga": "55",
+                "fgp": "47,3",
+                "assist": "14",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "20",
+                "rt": "29",
+                "pf": "20",
+                "rf": "24",
+                "to": "10",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "85",
+                "fouls": "20",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "17",
+                "p1a": "18",
+                "p1p": "94,4",
+                "p2m": "17",
+                "p2a": "36",
+                "p2p": "47,2",
+                "p3m": "9",
+                "p3a": "31",
+                "p3p": "29,0",
+                "fgm": "26",
+                "fga": "67",
+                "fgp": "38,8",
+                "assist": "5",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "19",
+                "rt": "34",
+                "pf": "24",
+                "rf": "19",
+                "to": "9",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "78",
+                "fouls": "24",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}
