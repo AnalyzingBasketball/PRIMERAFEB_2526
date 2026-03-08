@@ -726,21 +726,21 @@ def procesar_estadisticas_acumuladas():
                         parts = pos_str.split('|')
                         if len(parts) >= 2: cx, cy = parts[0], parts[1]
 
-                    # --- TRANSFORMACIÓN CORREGIDA PARA MEDIA PISTA VERTICAL (ARO ABAJO) ---
+                    # --- TRANSFORMACIÓN DEFINITIVA PARA MEDIA PISTA VERTICAL (ARO ABAJO) ---
                     shot_x_calc, shot_y_calc = None, None
                     try:
                         if cx is not None and cy is not None:
                             orig_x = float(cx)
                             orig_y = float(cy)
                             
-                            # 1. La X es el ancho de banda a banda. Se queda intacta (aro centrado en 50)
-                            shot_x_calc = orig_x
+                            # 1. Doblar el largo (X) para concentrar todo en el aro del punto 0
+                            fold_x = orig_x if orig_x <= 50 else (100 - orig_x)
                             
-                            # 2. La Y es el largo. Doblamos la pista para concentrar los tiros en una sola canasta (0 a 50)
-                            flip_y = orig_y if orig_y <= 50 else (100 - orig_y)
+                            # 2. La nueva X (horizontal) es el ancho original (Y). El aro queda centrado en 50.
+                            shot_x_calc = orig_y
                             
-                            # 3. Escalamos la media pista al 100%. El aro queda en el 0 (abajo)
-                            shot_y_calc = flip_y * 2
+                            # 3. La nueva Y (vertical) es el largo doblado. Lo escalamos al 100%. El aro queda en 0 (abajo).
+                            shot_y_calc = fold_x * 2
                     except:
                         pass
                     
