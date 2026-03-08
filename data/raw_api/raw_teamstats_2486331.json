@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "23-11-2025 - 12:00",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "AVILA ZURITA, JAVIER",
+        "referee2": "ARESTE GIRALT, EVA",
+        "referee3": "DEL VAL NUÑO, SERGIO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "99",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "17",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "13",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "23",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "33"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "19",
+                "p1a": "29",
+                "p1p": "65,5",
+                "p2m": "11",
+                "p2a": "26",
+                "p2p": "42,3",
+                "p3m": "12",
+                "p3a": "27",
+                "p3p": "44,4",
+                "fgm": "23",
+                "fga": "53",
+                "fgp": "43,4",
+                "assist": "8",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "19",
+                "rt": "26",
+                "pf": "36",
+                "rf": "23",
+                "to": "18",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "36",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "32",
+                "p1a": "49",
+                "p1p": "65,3",
+                "p2m": "26",
+                "p2a": "40",
+                "p2p": "65,0",
+                "p3m": "5",
+                "p3a": "17",
+                "p3p": "29,4",
+                "fgm": "31",
+                "fga": "57",
+                "fgp": "54,4",
+                "assist": "6",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "18",
+                "rt": "32",
+                "pf": "23",
+                "rf": "33",
+                "to": "11",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "99",
+                "fouls": "23",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

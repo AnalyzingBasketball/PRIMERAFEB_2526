@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-01-2026 - 18:00",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "SANCHEZ GONZALEZ, SANDRA",
+        "referee2": "GARVIN DOMINGO, RODRIGO",
+        "referee3": "CHACON BLAZQUEZ, ISRAEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "85",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "102",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "26",
+                    "scoreB": "31"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "18",
+                    "scoreB": "29"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "26"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "16",
+                "p1a": "23",
+                "p1p": "69,6",
+                "p2m": "18",
+                "p2a": "36",
+                "p2p": "50,0",
+                "p3m": "11",
+                "p3a": "22",
+                "p3p": "50,0",
+                "fgm": "29",
+                "fga": "58",
+                "fgp": "50,0",
+                "assist": "20",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "23",
+                "rt": "32",
+                "pf": "23",
+                "rf": "20",
+                "to": "13",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "85",
+                "fouls": "23",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "17",
+                "p1a": "23",
+                "p1p": "73,9",
+                "p2m": "20",
+                "p2a": "32",
+                "p2p": "62,5",
+                "p3m": "15",
+                "p3a": "31",
+                "p3p": "48,4",
+                "fgm": "35",
+                "fga": "63",
+                "fgp": "55,6",
+                "assist": "18",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "5",
+                "rd": "20",
+                "rt": "25",
+                "pf": "20",
+                "rf": "22",
+                "to": "8",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "102",
+                "fouls": "20",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

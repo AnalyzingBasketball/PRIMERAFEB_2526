@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "28-09-2025 - 17:00",
+        "place": "PASEO MIRAMON 2, Guipúzcoa (Donostia-San Sebastián)",
+        "field": "AMENABAR ARENA",
+        "referee1": "DE LUCAS DE LUCAS, ANGEL",
+        "referee2": "ALBACETE CHAMON, ANGEL ANTONIO",
+        "referee3": "ARESTE GIRALT, EVA",
+        "status": null,
+        "statusText": null,
+        "TEAM": [
+            {
+                "pts": "63",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "pts": "79",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "14",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "16",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "16",
+                    "scoreB": "21"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "22",
+                "p1a": "24",
+                "p1p": "91,7",
+                "p2m": "19",
+                "p2a": "37",
+                "p2p": "51,4",
+                "p3m": "1",
+                "p3a": "22",
+                "p3p": "4,5",
+                "fgm": "20",
+                "fga": "59",
+                "fgp": "33,9",
+                "assist": "14",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "20",
+                "rt": "27",
+                "pf": "24",
+                "rf": "22",
+                "to": "9",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "63",
+                "fouls": "24",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "p1m": "18",
+                "p1a": "21",
+                "p1p": "85,7",
+                "p2m": "20",
+                "p2a": "40",
+                "p2p": "50,0",
+                "p3m": "7",
+                "p3a": "25",
+                "p3p": "28,0",
+                "fgm": "27",
+                "fga": "65",
+                "fgp": "41,5",
+                "assist": "11",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "22",
+                "rt": "32",
+                "pf": "22",
+                "rf": "24",
+                "to": "12",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "79",
+                "fouls": "22",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-10-2025 - 17:30",
+        "place": "C/ ANGEL NIETO, S/N, Zamora (Zamora)",
+        "field": "PABELLON ANGEL NIETO",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "GONZALEZ CUERVO, FRANCISCO",
+        "referee3": "GARCIA PAREJO, ALBERTO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "84",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            },
+            {
+                "pts": "94",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "22",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "26"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "25",
+                    "scoreB": "19"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "19",
+                "p1a": "22",
+                "p1p": "86,4",
+                "p2m": "22",
+                "p2a": "48",
+                "p2p": "45,8",
+                "p3m": "7",
+                "p3a": "28",
+                "p3p": "25,0",
+                "fgm": "29",
+                "fga": "76",
+                "fgp": "38,2",
+                "assist": "7",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "19",
+                "rt": "34",
+                "pf": "22",
+                "rf": "24",
+                "to": "13",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "84",
+                "fouls": "22",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            },
+            {
+                "p1m": "20",
+                "p1a": "27",
+                "p1p": "74,1",
+                "p2m": "25",
+                "p2a": "44",
+                "p2p": "56,8",
+                "p3m": "8",
+                "p3a": "24",
+                "p3p": "33,3",
+                "fgm": "33",
+                "fga": "68",
+                "fgp": "48,5",
+                "assist": "9",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "13",
+                "rd": "21",
+                "rt": "34",
+                "pf": "24",
+                "rf": "22",
+                "to": "9",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "94",
+                "fouls": "24",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

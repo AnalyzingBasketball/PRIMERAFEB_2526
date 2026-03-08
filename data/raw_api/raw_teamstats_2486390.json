@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "04-01-2026 - 12:30",
+        "place": "C/ RIO IBIAS Nº 3 33010   OVIEDO ASTURIAS, Asturias (Oviedo)",
+        "field": "PALACIO DE LOS DEPORTES DE OVIEDO",
+        "referee1": "ZAFRA GUERRA, FRANCISCO JOSE",
+        "referee2": "IBAÑEZ GARCIA, FERNANDO",
+        "referee3": "SEIJO VAZQUEZ, MANUEL ANDRES",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "83",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "pts": "64",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "29",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "12",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "18",
+                    "scoreB": "6"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "26"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "5",
+                "p1a": "7",
+                "p1p": "71,4",
+                "p2m": "15",
+                "p2a": "32",
+                "p2p": "46,9",
+                "p3m": "16",
+                "p3a": "38",
+                "p3p": "42,1",
+                "fgm": "31",
+                "fga": "70",
+                "fgp": "44,3",
+                "assist": "21",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "31",
+                "rt": "40",
+                "pf": "21",
+                "rf": "13",
+                "to": "15",
+                "st": "13",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "83",
+                "fouls": "21",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "p1m": "11",
+                "p1a": "16",
+                "p1p": "68,8",
+                "p2m": "13",
+                "p2a": "34",
+                "p2p": "38,2",
+                "p3m": "9",
+                "p3a": "28",
+                "p3p": "32,1",
+                "fgm": "22",
+                "fga": "62",
+                "fgp": "35,5",
+                "assist": "9",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "28",
+                "rt": "35",
+                "pf": "14",
+                "rf": "20",
+                "to": "21",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "64",
+                "fouls": "14",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

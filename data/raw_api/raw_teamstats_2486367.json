@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "21-12-2025 - 12:00",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "HURTADO ALMANSA, JUAN RAMON",
+        "referee2": "DOMINGO VILALTA, JORDI",
+        "referee3": "BERBEIRA ORIA, MANUEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "85",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "14",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "21",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "15",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "23"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "9",
+                "p1a": "12",
+                "p1p": "75,0",
+                "p2m": "21",
+                "p2a": "35",
+                "p2p": "60,0",
+                "p3m": "7",
+                "p3a": "31",
+                "p3p": "22,6",
+                "fgm": "28",
+                "fga": "66",
+                "fgp": "42,4",
+                "assist": "17",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "13",
+                "rd": "18",
+                "rt": "31",
+                "pf": "21",
+                "rf": "19",
+                "to": "17",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "21",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "30",
+                "p1a": "35",
+                "p1p": "85,7",
+                "p2m": "17",
+                "p2a": "34",
+                "p2p": "50,0",
+                "p3m": "7",
+                "p3a": "22",
+                "p3p": "31,8",
+                "fgm": "24",
+                "fga": "56",
+                "fgp": "42,9",
+                "assist": "10",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "23",
+                "rt": "32",
+                "pf": "19",
+                "rf": "19",
+                "to": "15",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "85",
+                "fouls": "19",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

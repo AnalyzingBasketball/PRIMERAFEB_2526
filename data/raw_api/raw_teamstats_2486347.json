@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "06-12-2025 - 19:00",
+        "place": "C/ RIO IBIAS Nº 3 33010   OVIEDO ASTURIAS, Asturias (Oviedo)",
+        "field": "PALACIO DE LOS DEPORTES DE OVIEDO",
+        "referee1": "CHECA NEBOT, DANIEL",
+        "referee2": "CAÑIGUERAL NOVELLA, MIKEL",
+        "referee3": "RUIZ RAMIREZ-CRUZADO, CHRISTIAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "97",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "pts": "79",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "32",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "19",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "23",
+                    "scoreB": "27"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "18",
+                "p1a": "23",
+                "p1p": "78,3",
+                "p2m": "20",
+                "p2a": "35",
+                "p2p": "57,1",
+                "p3m": "13",
+                "p3a": "28",
+                "p3p": "46,4",
+                "fgm": "33",
+                "fga": "63",
+                "fgp": "52,4",
+                "assist": "20",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "3",
+                "rd": "25",
+                "rt": "28",
+                "pf": "22",
+                "rf": "20",
+                "to": "10",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "97",
+                "fouls": "22",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "p1m": "11",
+                "p1a": "18",
+                "p1p": "61,1",
+                "p2m": "19",
+                "p2a": "49",
+                "p2p": "38,8",
+                "p3m": "10",
+                "p3a": "21",
+                "p3p": "47,6",
+                "fgm": "29",
+                "fga": "70",
+                "fgp": "41,4",
+                "assist": "13",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "21",
+                "rt": "32",
+                "pf": "23",
+                "rf": "22",
+                "to": "15",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "79",
+                "fouls": "23",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

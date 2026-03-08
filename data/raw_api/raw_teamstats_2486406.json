@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "18-01-2026 - 12:30",
+        "place": "AVDA. FELIPE II, S/N, Madrid (Madrid)",
+        "field": "MOVISTAR ARENA",
+        "referee1": "IBAÑEZ GARCIA, FERNANDO",
+        "referee2": "GARCÍA CRESPO, MARÍA DE LOS ÁNGELES",
+        "referee3": "FANES MARGINET, JOAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "81",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "74",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "20",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "23",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "16",
+                    "scoreB": "11"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "14"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "25",
+                "p1a": "35",
+                "p1p": "71,4",
+                "p2m": "19",
+                "p2a": "32",
+                "p2p": "59,4",
+                "p3m": "6",
+                "p3a": "23",
+                "p3p": "26,1",
+                "fgm": "25",
+                "fga": "55",
+                "fgp": "45,5",
+                "assist": "9",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "26",
+                "rt": "37",
+                "pf": "24",
+                "rf": "27",
+                "to": "14",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "81",
+                "fouls": "24",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "8",
+                "p1a": "12",
+                "p1p": "66,7",
+                "p2m": "21",
+                "p2a": "37",
+                "p2p": "56,8",
+                "p3m": "8",
+                "p3a": "26",
+                "p3p": "30,8",
+                "fgm": "29",
+                "fga": "63",
+                "fgp": "46,0",
+                "assist": "15",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "3",
+                "rd": "18",
+                "rt": "21",
+                "pf": "27",
+                "rf": "24",
+                "to": "13",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "74",
+                "fouls": "27",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

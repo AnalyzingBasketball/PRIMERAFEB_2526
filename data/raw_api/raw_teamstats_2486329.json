@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "15-11-2025 - 19:00",
+        "place": "AVDA. DE LA CONSTITUCION, 9, Cantabria (Torrelavega)",
+        "field": "PABELLÓN VICENTE TRUEBA",
+        "referee1": "PALANCA PAGE, RODRIGO",
+        "referee2": "GOMEZ LUQUE, JAIME",
+        "referee3": "LAZARO RODRIGUEZ, ALBERTO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "84",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "pts": "91",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "28",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "12",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "22",
+                    "scoreB": "27"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "18"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "14",
+                "p1a": "20",
+                "p1p": "70,0",
+                "p2m": "17",
+                "p2a": "33",
+                "p2p": "51,5",
+                "p3m": "12",
+                "p3a": "26",
+                "p3p": "46,2",
+                "fgm": "29",
+                "fga": "59",
+                "fgp": "49,2",
+                "assist": "14",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "5",
+                "rd": "21",
+                "rt": "26",
+                "pf": "23",
+                "rf": "21",
+                "to": "14",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "84",
+                "fouls": "23",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "p1m": "22",
+                "p1a": "28",
+                "p1p": "78,6",
+                "p2m": "21",
+                "p2a": "46",
+                "p2p": "45,7",
+                "p3m": "9",
+                "p3a": "25",
+                "p3p": "36,0",
+                "fgm": "30",
+                "fga": "71",
+                "fgp": "42,3",
+                "assist": "10",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "17",
+                "rd": "22",
+                "rt": "39",
+                "pf": "21",
+                "rf": "23",
+                "to": "11",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "91",
+                "fouls": "21",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

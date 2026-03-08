@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "14-11-2025 - 20:30",
+        "place": "PASEO MIRAMON 2, Guipúzcoa (Donostia-San Sebastián)",
+        "field": "AMENABAR ARENA",
+        "referee1": "AVILA ZURITA, JAVIER",
+        "referee2": "ADAN RODRIGUEZ, CRISTINA",
+        "referee3": "CALVO ACEÑA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "pts": "86",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "22",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "27"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "7",
+                "p1a": "14",
+                "p1p": "50,0",
+                "p2m": "15",
+                "p2a": "23",
+                "p2p": "65,2",
+                "p3m": "15",
+                "p3a": "47",
+                "p3p": "31,9",
+                "fgm": "30",
+                "fga": "70",
+                "fgp": "42,9",
+                "assist": "12",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "16",
+                "rt": "26",
+                "pf": "26",
+                "rf": "18",
+                "to": "13",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "26",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "p1m": "29",
+                "p1a": "32",
+                "p1p": "90,6",
+                "p2m": "15",
+                "p2a": "33",
+                "p2p": "45,5",
+                "p3m": "9",
+                "p3a": "21",
+                "p3p": "42,9",
+                "fgm": "24",
+                "fga": "54",
+                "fgp": "44,4",
+                "assist": "7",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "21",
+                "rt": "29",
+                "pf": "19",
+                "rf": "25",
+                "to": "15",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "86",
+                "fouls": "19",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

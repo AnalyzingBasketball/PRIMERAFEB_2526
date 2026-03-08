@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "31-01-2026 - 19:00",
+        "place": "FINCA SEVILLA, S/N, Ourense (Ourense)",
+        "field": "PAZO DOS DEPORTES PACO PAZ",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "CHECA NEBOT, DANIEL",
+        "referee3": "GONZALEZ CUERVO, FRANCISCO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "69",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLOUD.GAL OURENSE BALONCESTO ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "13",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "31",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "11",
+                    "scoreB": "18"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "11",
+                "p1a": "18",
+                "p1p": "61,1",
+                "p2m": "17",
+                "p2a": "42",
+                "p2p": "40,5",
+                "p3m": "8",
+                "p3a": "28",
+                "p3p": "28,6",
+                "fgm": "25",
+                "fga": "70",
+                "fgp": "35,7",
+                "assist": "19",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "13",
+                "rd": "19",
+                "rt": "32",
+                "pf": "24",
+                "rf": "19",
+                "to": "11",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "69",
+                "fouls": "24",
+                "id": "981493",
+                "name": "CLOUD.GAL OURENSE BALONCESTO ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "p1m": "21",
+                "p1a": "28",
+                "p1p": "75,0",
+                "p2m": "15",
+                "p2a": "34",
+                "p2p": "44,1",
+                "p3m": "7",
+                "p3a": "20",
+                "p3p": "35,0",
+                "fgm": "22",
+                "fga": "54",
+                "fgp": "40,7",
+                "assist": "23",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "30",
+                "rt": "40",
+                "pf": "19",
+                "rf": "22",
+                "to": "23",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "19",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "08-02-2026 - 11:30",
+        "place": "AVDA. FELIPE II, S/N, Madrid (Madrid)",
+        "field": "MOVISTAR ARENA",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "LEZCANO, LEANDRO NICOLÁS",
+        "referee3": "FRANQUESA VAZQUEZ, POL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "94",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "17",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "15",
+                    "scoreB": "30"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "16",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "24"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "18",
+                "p1a": "28",
+                "p1p": "64,3",
+                "p2m": "18",
+                "p2a": "26",
+                "p2p": "69,2",
+                "p3m": "6",
+                "p3a": "29",
+                "p3p": "20,7",
+                "fgm": "24",
+                "fga": "55",
+                "fgp": "43,6",
+                "assist": "14",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "5",
+                "rd": "17",
+                "rt": "22",
+                "pf": "20",
+                "rf": "27",
+                "to": "13",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "20",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "16",
+                "p1a": "23",
+                "p1p": "69,6",
+                "p2m": "27",
+                "p2a": "48",
+                "p2p": "56,3",
+                "p3m": "8",
+                "p3a": "14",
+                "p3p": "57,1",
+                "fgm": "35",
+                "fga": "62",
+                "fgp": "56,5",
+                "assist": "19",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "22",
+                "rt": "31",
+                "pf": "28",
+                "rf": "20",
+                "to": "11",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "94",
+                "fouls": "28",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

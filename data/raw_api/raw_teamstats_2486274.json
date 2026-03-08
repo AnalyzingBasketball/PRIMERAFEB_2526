@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "04-10-2025 - 17:30",
+        "place": "C/ ANGEL NIETO, S/N, Zamora (Zamora)",
+        "field": "PABELLON ANGEL NIETO",
+        "referee1": "IBAÑEZ GARCIA, FERNANDO",
+        "referee2": "DOMINGO VILALTA, JORDI",
+        "referee3": "LOPEZ LECUONA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "101",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            },
+            {
+                "pts": "95",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "25",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "21",
+                    "scoreB": "30"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "35",
+                    "scoreB": "15"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "30",
+                "p1a": "41",
+                "p1p": "73,2",
+                "p2m": "19",
+                "p2a": "36",
+                "p2p": "52,8",
+                "p3m": "11",
+                "p3a": "23",
+                "p3p": "47,8",
+                "fgm": "30",
+                "fga": "59",
+                "fgp": "50,8",
+                "assist": "14",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "21",
+                "rt": "29",
+                "pf": "24",
+                "rf": "29",
+                "to": "19",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "101",
+                "fouls": "24",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            },
+            {
+                "p1m": "21",
+                "p1a": "26",
+                "p1p": "80,8",
+                "p2m": "31",
+                "p2a": "45",
+                "p2p": "68,9",
+                "p3m": "4",
+                "p3a": "26",
+                "p3p": "15,4",
+                "fgm": "35",
+                "fga": "71",
+                "fgp": "49,3",
+                "assist": "14",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "22",
+                "rt": "32",
+                "pf": "29",
+                "rf": "24",
+                "to": "14",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "95",
+                "fouls": "29",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "21-12-2025 - 18:00",
+        "place": "CAMI DE LA VILETA, 40 - PONENT, Illes Balears (Palma de Mallorca)",
+        "field": "POLIESPORTIU SON MOIX",
+        "referee1": "BAENA CRIADO, JORGE",
+        "referee2": "ARESTE GIRALT, EVA",
+        "referee3": "MURILLO KHON, NICOLÁS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "45",
+                "fouls": null,
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            },
+            {
+                "pts": "115",
+                "fouls": null,
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "9",
+                    "scoreB": "30"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "31"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "9",
+                    "scoreB": "29"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "7",
+                    "scoreB": "25"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "10",
+                "p1a": "13",
+                "p1p": "76,9",
+                "p2m": "10",
+                "p2a": "27",
+                "p2p": "37,0",
+                "p3m": "5",
+                "p3a": "30",
+                "p3p": "16,7",
+                "fgm": "15",
+                "fga": "57",
+                "fgp": "26,3",
+                "assist": "9",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "15",
+                "rt": "24",
+                "pf": "27",
+                "rf": "17",
+                "to": "23",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "45",
+                "fouls": "27",
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            },
+            {
+                "p1m": "26",
+                "p1a": "32",
+                "p1p": "81,3",
+                "p2m": "28",
+                "p2a": "40",
+                "p2p": "70,0",
+                "p3m": "11",
+                "p3a": "21",
+                "p3p": "52,4",
+                "fgm": "39",
+                "fga": "61",
+                "fgp": "63,9",
+                "assist": "25",
+                "bs": "6",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "27",
+                "rt": "37",
+                "pf": "17",
+                "rf": "27",
+                "to": "14",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "115",
+                "fouls": "17",
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

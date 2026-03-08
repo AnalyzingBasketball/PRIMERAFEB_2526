@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "15-02-2026 - 18:00",
+        "place": "GRECIA, S/N, Madrid (Fuenlabrada)",
+        "field": "FERNANDO MARTIN, PABELLON",
+        "referee1": "LEZCANO, LEANDRO NICOLÁS",
+        "referee2": "ALBACETE CHAMON, ANGEL ANTONIO",
+        "referee3": "ARANZANA GARCIA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "87",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            },
+            {
+                "pts": "90",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "15",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "24",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "31",
+                    "scoreB": "26"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "27",
+                "p1a": "36",
+                "p1p": "75,0",
+                "p2m": "21",
+                "p2a": "37",
+                "p2p": "56,8",
+                "p3m": "6",
+                "p3a": "23",
+                "p3p": "26,1",
+                "fgm": "27",
+                "fga": "60",
+                "fgp": "45,0",
+                "assist": "21",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "27",
+                "rt": "38",
+                "pf": "22",
+                "rf": "28",
+                "to": "6",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "87",
+                "fouls": "22",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            },
+            {
+                "p1m": "17",
+                "p1a": "23",
+                "p1p": "73,9",
+                "p2m": "17",
+                "p2a": "31",
+                "p2p": "54,8",
+                "p3m": "13",
+                "p3a": "30",
+                "p3p": "43,3",
+                "fgm": "30",
+                "fga": "61",
+                "fgp": "49,2",
+                "assist": "22",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "23",
+                "rt": "32",
+                "pf": "29",
+                "rf": "20",
+                "to": "12",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "90",
+                "fouls": "29",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

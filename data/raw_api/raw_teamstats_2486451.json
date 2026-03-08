@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "21-02-2026 - 19:00",
+        "place": "AVDA. DEL CANTÓN S/N, Murcia (Cartagena)",
+        "field": "PALACIO DE LOS DEPORTES DE CARTAGENA",
+        "referee1": "HURTADO ALMANSA, JUAN RAMON",
+        "referee2": "SANHERMELANDO GARCIA, HECTOR",
+        "referee3": "PIÑEIRO AMONDARAY, LAURA",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "66",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "15",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "16",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "17",
+                    "scoreB": "20"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "16",
+                "p1a": "20",
+                "p1p": "80,0",
+                "p2m": "13",
+                "p2a": "29",
+                "p2p": "44,8",
+                "p3m": "8",
+                "p3a": "29",
+                "p3p": "27,6",
+                "fgm": "21",
+                "fga": "58",
+                "fgp": "36,2",
+                "assist": "15",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "12",
+                "rt": "21",
+                "pf": "19",
+                "rf": "17",
+                "to": "12",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "66",
+                "fouls": "19",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "p1m": "19",
+                "p1a": "22",
+                "p1p": "86,4",
+                "p2m": "18",
+                "p2a": "33",
+                "p2p": "54,5",
+                "p3m": "9",
+                "p3a": "23",
+                "p3p": "39,1",
+                "fgm": "27",
+                "fga": "56",
+                "fgp": "48,2",
+                "assist": "16",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "24",
+                "rt": "36",
+                "pf": "17",
+                "rf": "19",
+                "to": "13",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "17",
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

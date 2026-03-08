@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "03-10-2025 - 20:45",
+        "place": "Francisco Pérez Carballo, 2, A Coruña (Coruña, A)",
+        "field": "COLISEUM CORUÑA",
+        "referee1": "MORALES RUIZ, GERMAN",
+        "referee2": "BAENA CRIADO, JORGE",
+        "referee3": "ARANZANA GARCIA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "87",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "25",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "13"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "11",
+                "p1a": "19",
+                "p1p": "57,9",
+                "p2m": "23",
+                "p2a": "46",
+                "p2p": "50,0",
+                "p3m": "10",
+                "p3a": "37",
+                "p3p": "27,0",
+                "fgm": "33",
+                "fga": "83",
+                "fgp": "39,8",
+                "assist": "12",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "29",
+                "rt": "43",
+                "pf": "19",
+                "rf": "21",
+                "to": "8",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "87",
+                "fouls": "19",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "p1m": "7",
+                "p1a": "16",
+                "p1p": "43,8",
+                "p2m": "22",
+                "p2a": "38",
+                "p2p": "57,9",
+                "p3m": "7",
+                "p3a": "31",
+                "p3p": "22,6",
+                "fgm": "29",
+                "fga": "69",
+                "fgp": "42,0",
+                "assist": "11",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "28",
+                "rt": "36",
+                "pf": "22",
+                "rf": "19",
+                "to": "13",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "22",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

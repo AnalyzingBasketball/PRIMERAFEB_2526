@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "26-10-2025 - 18:00",
+        "place": "CAMI DE LA VILETA, 40 - PONENT, Illes Balears (Palma de Mallorca)",
+        "field": "POLIESPORTIU SON MOIX",
+        "referee1": "ADAN RODRIGUEZ, CRISTINA",
+        "referee2": "IBAÑEZ GARCIA, FERNANDO",
+        "referee3": "LOPEZ LECUONA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "57",
+                "fouls": null,
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            },
+            {
+                "pts": "78",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "14",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "13",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "12",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "10",
+                "p1a": "16",
+                "p1p": "62,5",
+                "p2m": "13",
+                "p2a": "34",
+                "p2p": "38,2",
+                "p3m": "7",
+                "p3a": "28",
+                "p3p": "25,0",
+                "fgm": "20",
+                "fga": "62",
+                "fgp": "32,3",
+                "assist": "10",
+                "bs": "6",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "15",
+                "rt": "24",
+                "pf": "18",
+                "rf": "17",
+                "to": "15",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "57",
+                "fouls": "18",
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            },
+            {
+                "p1m": "12",
+                "p1a": "15",
+                "p1p": "80,0",
+                "p2m": "18",
+                "p2a": "33",
+                "p2p": "54,5",
+                "p3m": "10",
+                "p3a": "31",
+                "p3p": "32,3",
+                "fgm": "28",
+                "fga": "64",
+                "fgp": "43,8",
+                "assist": "24",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "30",
+                "rt": "42",
+                "pf": "17",
+                "rf": "17",
+                "to": "16",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "78",
+                "fouls": "17",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

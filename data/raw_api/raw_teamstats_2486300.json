@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "25-10-2025 - 19:00",
+        "place": "AVDA. DE LA CONSTITUCION, 9, Cantabria (Torrelavega)",
+        "field": "PABELLÓN VICENTE TRUEBA",
+        "referee1": "RIAL BARREIRO, JACOBO",
+        "referee2": "CAÑIGUERAL NOVELLA, MIKEL",
+        "referee3": "PIÑEIRO AMONDARAY, LAURA",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "87",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "pts": "66",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "26",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "10",
+                    "scoreB": "4"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "33",
+                    "scoreB": "21"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "27",
+                "p1a": "35",
+                "p1p": "77,1",
+                "p2m": "18",
+                "p2a": "36",
+                "p2p": "50,0",
+                "p3m": "8",
+                "p3a": "21",
+                "p3p": "38,1",
+                "fgm": "26",
+                "fga": "57",
+                "fgp": "45,6",
+                "assist": "19",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "23",
+                "rt": "29",
+                "pf": "22",
+                "rf": "31",
+                "to": "5",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "87",
+                "fouls": "22",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "p1m": "17",
+                "p1a": "22",
+                "p1p": "77,3",
+                "p2m": "17",
+                "p2a": "49",
+                "p2p": "34,7",
+                "p3m": "5",
+                "p3a": "17",
+                "p3p": "29,4",
+                "fgm": "22",
+                "fga": "66",
+                "fgp": "33,3",
+                "assist": "8",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "26",
+                "rt": "37",
+                "pf": "32",
+                "rf": "20",
+                "to": "12",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "66",
+                "fouls": "32",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "31-01-2026 - 19:00",
+        "place": "CALLE FOGUERER GILABERT DAVO s/n, Alicante (Alicante/Alacant)",
+        "field": "Centre de Tecnificació Esportiva d’Alacant",
+        "referee1": "QUINTAS ALVAREZ, ASIER",
+        "referee2": "BÁEZ BATISTA, HÉCTOR",
+        "referee3": "RUIZ RAMIREZ-CRUZADO, CHRISTIAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "63",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "16",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "15",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "15",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "18",
+                "p1a": "21",
+                "p1p": "85,7",
+                "p2m": "12",
+                "p2a": "25",
+                "p2p": "48,0",
+                "p3m": "7",
+                "p3a": "31",
+                "p3p": "22,6",
+                "fgm": "19",
+                "fga": "56",
+                "fgp": "33,9",
+                "assist": "12",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "16",
+                "rt": "25",
+                "pf": "19",
+                "rf": "21",
+                "to": "12",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "63",
+                "fouls": "19",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "p1m": "15",
+                "p1a": "19",
+                "p1p": "78,9",
+                "p2m": "14",
+                "p2a": "29",
+                "p2p": "48,3",
+                "p3m": "13",
+                "p3a": "31",
+                "p3p": "41,9",
+                "fgm": "27",
+                "fga": "60",
+                "fgp": "45,0",
+                "assist": "19",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "26",
+                "rt": "36",
+                "pf": "21",
+                "rf": "19",
+                "to": "11",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "21",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

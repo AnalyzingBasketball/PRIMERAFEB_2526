@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "09-11-2025 - 18:30",
+        "place": "CALLE SERRANO 129, Madrid (Madrid)",
+        "field": "MOVISTAR ACADEMY MAGARIÑOS",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "PALANCA PAGE, RODRIGO",
+        "referee3": "GARCÍA CRESPO, MARÍA DE LOS ÁNGELES",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "87",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "92",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "27",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "21",
+                    "scoreB": "37"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "20",
+                "p1a": "30",
+                "p1p": "66,7",
+                "p2m": "14",
+                "p2a": "30",
+                "p2p": "46,7",
+                "p3m": "13",
+                "p3a": "38",
+                "p3p": "34,2",
+                "fgm": "27",
+                "fga": "68",
+                "fgp": "39,7",
+                "assist": "12",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "30",
+                "rt": "39",
+                "pf": "27",
+                "rf": "30",
+                "to": "11",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "87",
+                "fouls": "27",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "20",
+                "p1a": "27",
+                "p1p": "74,1",
+                "p2m": "18",
+                "p2a": "40",
+                "p2p": "45,0",
+                "p3m": "12",
+                "p3a": "31",
+                "p3p": "38,7",
+                "fgm": "30",
+                "fga": "71",
+                "fgp": "42,3",
+                "assist": "18",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "31",
+                "rt": "40",
+                "pf": "33",
+                "rf": "25",
+                "to": "6",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "92",
+                "fouls": "33",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

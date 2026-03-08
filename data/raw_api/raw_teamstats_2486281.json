@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-10-2025 - 19:00",
+        "place": "AVDA. DEL CANTÓN S/N, Murcia (Cartagena)",
+        "field": "PALACIO DE LOS DEPORTES DE CARTAGENA",
+        "referee1": "OLIVARES BERNABEU, JOSEP MARIA",
+        "referee2": "CAAMAÑO MUÑOZ, JORGE",
+        "referee3": "MARQUETA GRACIA, JOSE JAVIER",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "pts": "78",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "25",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "16",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "17",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "16",
+                "p1a": "24",
+                "p1p": "66,7",
+                "p2m": "21",
+                "p2a": "40",
+                "p2p": "52,5",
+                "p3m": "8",
+                "p3a": "20",
+                "p3p": "40,0",
+                "fgm": "29",
+                "fga": "60",
+                "fgp": "48,3",
+                "assist": "17",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "5",
+                "rd": "28",
+                "rt": "33",
+                "pf": "24",
+                "rf": "24",
+                "to": "16",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "24",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "p1m": "13",
+                "p1a": "22",
+                "p1p": "59,1",
+                "p2m": "19",
+                "p2a": "38",
+                "p2p": "50,0",
+                "p3m": "9",
+                "p3a": "34",
+                "p3p": "26,5",
+                "fgm": "28",
+                "fga": "72",
+                "fgp": "38,9",
+                "assist": "17",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "16",
+                "rd": "26",
+                "rt": "42",
+                "pf": "24",
+                "rf": "23",
+                "to": "18",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "78",
+                "fouls": "24",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

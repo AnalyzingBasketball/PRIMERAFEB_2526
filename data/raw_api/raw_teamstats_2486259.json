@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "27-09-2025 - 19:30",
+        "place": "Camí de Bintaufa 18, Illes Balears (Mahón)",
+        "field": "Pavelló Menorca",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "RODRIGUEZ FERNANDEZ, PABLO",
+        "referee3": "MARQUETA GRACIA, JOSE JAVIER",
+        "status": null,
+        "statusText": null,
+        "TEAM": [
+            {
+                "pts": "97",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            },
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "23",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "29",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "22",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "23",
+                "p1a": "27",
+                "p1p": "85,2",
+                "p2m": "10",
+                "p2a": "22",
+                "p2p": "45,5",
+                "p3m": "18",
+                "p3a": "31",
+                "p3p": "58,1",
+                "fgm": "28",
+                "fga": "53",
+                "fgp": "52,8",
+                "assist": "21",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "23",
+                "rt": "32",
+                "pf": "24",
+                "rf": "22",
+                "to": "14",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "97",
+                "fouls": "24",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            },
+            {
+                "p1m": "23",
+                "p1a": "30",
+                "p1p": "76,7",
+                "p2m": "21",
+                "p2a": "33",
+                "p2p": "63,6",
+                "p3m": "4",
+                "p3a": "22",
+                "p3p": "18,2",
+                "fgm": "25",
+                "fga": "55",
+                "fgp": "45,5",
+                "assist": "16",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "15",
+                "rt": "23",
+                "pf": "22",
+                "rf": "24",
+                "to": "10",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "22",
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

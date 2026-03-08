@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "21-02-2026 - 19:00",
+        "place": "CALLE FOGUERER GILABERT DAVO s/n, Alicante (Alicante/Alacant)",
+        "field": "Centre de Tecnificació Esportiva d’Alacant",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "CAÑIGUERAL NOVELLA, MIKEL",
+        "referee3": "BENAVENTE PARRA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "58",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "10",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "14",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "18",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "16",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "27",
+                "p1a": "32",
+                "p1p": "84,4",
+                "p2m": "11",
+                "p2a": "32",
+                "p2p": "34,4",
+                "p3m": "3",
+                "p3a": "20",
+                "p3p": "15,0",
+                "fgm": "14",
+                "fga": "52",
+                "fgp": "26,9",
+                "assist": "12",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "22",
+                "rt": "30",
+                "pf": "16",
+                "rf": "25",
+                "to": "10",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "58",
+                "fouls": "16",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "p1m": "6",
+                "p1a": "9",
+                "p1p": "66,7",
+                "p2m": "20",
+                "p2a": "30",
+                "p2p": "66,7",
+                "p3m": "10",
+                "p3a": "33",
+                "p3p": "30,3",
+                "fgm": "30",
+                "fga": "63",
+                "fgp": "47,6",
+                "assist": "15",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "28",
+                "rt": "37",
+                "pf": "25",
+                "rf": "16",
+                "to": "12",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "25",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

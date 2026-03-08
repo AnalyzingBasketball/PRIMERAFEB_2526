@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "17-01-2026 - 19:30",
+        "place": "Camí de Bintaufa 18, Illes Balears (Mahón)",
+        "field": "Pavelló Menorca",
+        "referee1": "ZAFRA GUERRA, FRANCISCO JOSE",
+        "referee2": "ADAN RODRIGUEZ, CRISTINA",
+        "referee3": "GARCIA SANTOS, MARC",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "71",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            },
+            {
+                "pts": "64",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "17",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "19",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "16",
+                    "scoreB": "13"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "13",
+                "p1a": "22",
+                "p1p": "59,1",
+                "p2m": "17",
+                "p2a": "35",
+                "p2p": "48,6",
+                "p3m": "8",
+                "p3a": "24",
+                "p3p": "33,3",
+                "fgm": "25",
+                "fga": "59",
+                "fgp": "42,4",
+                "assist": "14",
+                "bs": "6",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "21",
+                "rt": "31",
+                "pf": "17",
+                "rf": "21",
+                "to": "13",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "71",
+                "fouls": "17",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            },
+            {
+                "p1m": "6",
+                "p1a": "11",
+                "p1p": "54,5",
+                "p2m": "20",
+                "p2a": "39",
+                "p2p": "51,3",
+                "p3m": "6",
+                "p3a": "19",
+                "p3p": "31,6",
+                "fgm": "26",
+                "fga": "58",
+                "fgp": "44,8",
+                "assist": "18",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "18",
+                "rt": "25",
+                "pf": "22",
+                "rf": "17",
+                "to": "18",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "64",
+                "fouls": "22",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

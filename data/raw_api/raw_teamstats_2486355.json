@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "14-12-2025 - 18:00",
+        "place": "Plaza, Manuel Fernández de Castro y Pedrera, 2,, Melilla (Melilla)",
+        "field": "PABELLÓN DE DEPORTES JAVIER IMBRODA ORTIZ",
+        "referee1": "AVILA ZURITA, JAVIER",
+        "referee2": "GOMEZ LUQUE, JAIME",
+        "referee3": "SIERRA CARRILLO, JOSE CARLOS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "pts": "79",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "13",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "22",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "12",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "25",
+                    "scoreB": "9"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "14",
+                "p1a": "23",
+                "p1p": "60,9",
+                "p2m": "20",
+                "p2a": "40",
+                "p2p": "50,0",
+                "p3m": "6",
+                "p3a": "24",
+                "p3p": "25,0",
+                "fgm": "26",
+                "fga": "64",
+                "fgp": "40,6",
+                "assist": "15",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "15",
+                "rt": "25",
+                "pf": "21",
+                "rf": "20",
+                "to": "15",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "21",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "p1m": "13",
+                "p1a": "26",
+                "p1p": "50,0",
+                "p2m": "27",
+                "p2a": "44",
+                "p2p": "61,4",
+                "p3m": "4",
+                "p3a": "21",
+                "p3p": "19,0",
+                "fgm": "31",
+                "fga": "65",
+                "fgp": "47,7",
+                "assist": "9",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "26",
+                "rt": "41",
+                "pf": "21",
+                "rf": "21",
+                "to": "19",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "79",
+                "fouls": "21",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

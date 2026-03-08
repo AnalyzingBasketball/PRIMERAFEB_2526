@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "01-11-2025 - 19:00",
+        "place": "FINCA SEVILLA, S/N, Ourense (Ourense)",
+        "field": "PAZO DOS DEPORTES PACO PAZ",
+        "referee1": "DE LUCAS DE LUCAS, ANGEL",
+        "referee2": "CAAMAÑO MUÑOZ, JORGE",
+        "referee3": "FANES MARGINET, JOAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "84",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "pts": "80",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "23",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "26",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "18",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "17",
+                    "scoreB": "23"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "13",
+                "p1a": "25",
+                "p1p": "52,0",
+                "p2m": "25",
+                "p2a": "45",
+                "p2p": "55,6",
+                "p3m": "7",
+                "p3a": "17",
+                "p3p": "41,2",
+                "fgm": "32",
+                "fga": "62",
+                "fgp": "51,6",
+                "assist": "18",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "21",
+                "rt": "35",
+                "pf": "23",
+                "rf": "23",
+                "to": "13",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "84",
+                "fouls": "23",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "p1m": "21",
+                "p1a": "28",
+                "p1p": "75,0",
+                "p2m": "16",
+                "p2a": "31",
+                "p2p": "51,6",
+                "p3m": "9",
+                "p3a": "31",
+                "p3p": "29,0",
+                "fgm": "25",
+                "fga": "62",
+                "fgp": "40,3",
+                "assist": "12",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "13",
+                "rt": "25",
+                "pf": "23",
+                "rf": "23",
+                "to": "12",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "80",
+                "fouls": "23",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

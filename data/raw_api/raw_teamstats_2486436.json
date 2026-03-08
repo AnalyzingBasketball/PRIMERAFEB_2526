@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-02-2026 - 20:30",
+        "place": "AVDA. OBISPO BARBERÁ, S/N, Palencia (Palencia)",
+        "field": "PABELLÓN MUNICIPAL DE DEPORTES (PALENCIA)",
+        "referee1": "MORALES Gª-ALCAIDE, JUAN P.",
+        "referee2": "CARPALLO MIGUELEZ, JUAN GABRIEL",
+        "referee3": "DEL VAL NUÑO, SERGIO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "85",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "pts": "69",
+                "fouls": null,
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "25",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "26",
+                    "scoreB": "11"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "16",
+                    "scoreB": "18"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "9",
+                "p1a": "11",
+                "p1p": "81,8",
+                "p2m": "23",
+                "p2a": "36",
+                "p2p": "63,9",
+                "p3m": "10",
+                "p3a": "28",
+                "p3p": "35,7",
+                "fgm": "33",
+                "fga": "64",
+                "fgp": "51,6",
+                "assist": "18",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "29",
+                "rt": "36",
+                "pf": "20",
+                "rf": "14",
+                "to": "11",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "85",
+                "fouls": "20",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "p1m": "15",
+                "p1a": "22",
+                "p1p": "68,2",
+                "p2m": "12",
+                "p2a": "29",
+                "p2p": "41,4",
+                "p3m": "10",
+                "p3a": "28",
+                "p3p": "35,7",
+                "fgm": "22",
+                "fga": "57",
+                "fgp": "38,6",
+                "assist": "9",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "19",
+                "rt": "26",
+                "pf": "14",
+                "rf": "20",
+                "to": "13",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "69",
+                "fouls": "14",
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

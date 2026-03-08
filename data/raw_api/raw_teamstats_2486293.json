@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "17-10-2025 - 21:00",
+        "place": "AVDA. OBISPO BARBERÁ, S/N, Palencia (Palencia)",
+        "field": "PABELLÓN MUNICIPAL DE DEPORTES (PALENCIA)",
+        "referee1": "RIAL BARREIRO, JACOBO",
+        "referee2": "SANHERMELANDO GARCIA, HECTOR",
+        "referee3": "ARANZANA GARCIA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "89",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "pts": "64",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "30",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "17",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "12"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "23",
+                "p1a": "31",
+                "p1p": "74,2",
+                "p2m": "15",
+                "p2a": "27",
+                "p2p": "55,6",
+                "p3m": "12",
+                "p3a": "31",
+                "p3p": "38,7",
+                "fgm": "27",
+                "fga": "58",
+                "fgp": "46,6",
+                "assist": "19",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "4",
+                "rd": "29",
+                "rt": "33",
+                "pf": "21",
+                "rf": "24",
+                "to": "8",
+                "st": "2",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "89",
+                "fouls": "21",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "p1m": "13",
+                "p1a": "16",
+                "p1p": "81,3",
+                "p2m": "15",
+                "p2a": "38",
+                "p2p": "39,5",
+                "p3m": "7",
+                "p3a": "33",
+                "p3p": "21,2",
+                "fgm": "22",
+                "fga": "71",
+                "fgp": "31,0",
+                "assist": "8",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "21",
+                "rt": "32",
+                "pf": "24",
+                "rf": "21",
+                "to": "7",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "64",
+                "fouls": "24",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

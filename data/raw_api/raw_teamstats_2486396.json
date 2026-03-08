@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-01-2026 - 18:00",
+        "place": "PASEO MIRAMON 2, Guipúzcoa (Donostia-San Sebastián)",
+        "field": "AMENABAR ARENA",
+        "referee1": "LEZCANO, LEANDRO NICOLÁS",
+        "referee2": "DOMINGO VILALTA, JORDI",
+        "referee3": "MURILLO KHON, NICOLÁS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "74",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "pts": "69",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "22",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "19",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "17",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "16",
+                    "scoreB": "9"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "12",
+                "p1a": "15",
+                "p1p": "80,0",
+                "p2m": "25",
+                "p2a": "46",
+                "p2p": "54,3",
+                "p3m": "4",
+                "p3a": "22",
+                "p3p": "18,2",
+                "fgm": "29",
+                "fga": "68",
+                "fgp": "42,6",
+                "assist": "15",
+                "bs": "8",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "25",
+                "rt": "34",
+                "pf": "19",
+                "rf": "18",
+                "to": "6",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "74",
+                "fouls": "19",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "p1m": "16",
+                "p1a": "24",
+                "p1p": "66,7",
+                "p2m": "10",
+                "p2a": "37",
+                "p2p": "27,0",
+                "p3m": "11",
+                "p3a": "31",
+                "p3p": "35,5",
+                "fgm": "21",
+                "fga": "68",
+                "fgp": "30,9",
+                "assist": "10",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "28",
+                "rt": "42",
+                "pf": "18",
+                "rf": "19",
+                "to": "11",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "69",
+                "fouls": "18",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

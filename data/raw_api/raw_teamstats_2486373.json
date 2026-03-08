@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "21-12-2025 - 18:00",
+        "place": "Plaza, Manuel Fernández de Castro y Pedrera, 2,, Melilla (Melilla)",
+        "field": "PABELLÓN DE DEPORTES JAVIER IMBRODA ORTIZ",
+        "referee1": "OLIVARES BERNABEU, JOSEP MARIA",
+        "referee2": "SANHERMELANDO GARCIA, HECTOR",
+        "referee3": "BENAVENTE PARRA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "65",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "pts": "95",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "20",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "14",
+                    "scoreB": "18"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "16",
+                "p1a": "19",
+                "p1p": "84,2",
+                "p2m": "14",
+                "p2a": "26",
+                "p2p": "53,8",
+                "p3m": "7",
+                "p3a": "26",
+                "p3p": "26,9",
+                "fgm": "21",
+                "fga": "52",
+                "fgp": "40,4",
+                "assist": "13",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "3",
+                "rd": "28",
+                "rt": "31",
+                "pf": "20",
+                "rf": "22",
+                "to": "22",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "65",
+                "fouls": "20",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "p1m": "13",
+                "p1a": "18",
+                "p1p": "72,2",
+                "p2m": "29",
+                "p2a": "42",
+                "p2p": "69,0",
+                "p3m": "8",
+                "p3a": "32",
+                "p3p": "25,0",
+                "fgm": "37",
+                "fga": "74",
+                "fgp": "50,0",
+                "assist": "17",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "28",
+                "rt": "37",
+                "pf": "22",
+                "rf": "20",
+                "to": "7",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "95",
+                "fouls": "22",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

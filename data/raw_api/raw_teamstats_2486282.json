@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-10-2025 - 19:00",
+        "place": "AVDA. DE LA CONSTITUCION, 9, Cantabria (Torrelavega)",
+        "field": "PABELLÓN VICENTE TRUEBA",
+        "referee1": "DE LUCAS DE LUCAS, ANGEL",
+        "referee2": "IBAÑEZ GARCIA, FERNANDO",
+        "referee3": "FANES MARGINET, JOAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "58",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "pts": "107",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "11",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "13",
+                    "scoreB": "32"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "24",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "10",
+                    "scoreB": "25"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "10",
+                "p1a": "20",
+                "p1p": "50,0",
+                "p2m": "12",
+                "p2a": "31",
+                "p2p": "38,7",
+                "p3m": "8",
+                "p3a": "26",
+                "p3p": "30,8",
+                "fgm": "20",
+                "fga": "57",
+                "fgp": "35,1",
+                "assist": "7",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "17",
+                "rt": "26",
+                "pf": "20",
+                "rf": "22",
+                "to": "18",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "58",
+                "fouls": "20",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "p1m": "20",
+                "p1a": "23",
+                "p1p": "87,0",
+                "p2m": "27",
+                "p2a": "44",
+                "p2p": "61,4",
+                "p3m": "11",
+                "p3a": "25",
+                "p3p": "44,0",
+                "fgm": "38",
+                "fga": "69",
+                "fgp": "55,1",
+                "assist": "21",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "27",
+                "rt": "38",
+                "pf": "22",
+                "rf": "19",
+                "to": "6",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "107",
+                "fouls": "22",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "15-02-2026 - 18:00",
+        "place": "C/ RIO IBIAS Nº 3 33010   OVIEDO ASTURIAS, Asturias (Oviedo)",
+        "field": "PALACIO DE LOS DEPORTES DE OVIEDO",
+        "referee1": "LOPEZ HERRADA, ENRIQUE",
+        "referee2": "ADAN RODRIGUEZ, CRISTINA",
+        "referee3": "DOMINGO VILALTA, JORDI",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "61",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "8",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "22",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "26"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "17",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "14",
+                "p1a": "21",
+                "p1p": "66,7",
+                "p2m": "10",
+                "p2a": "29",
+                "p2p": "34,5",
+                "p3m": "9",
+                "p3a": "30",
+                "p3p": "30,0",
+                "fgm": "19",
+                "fga": "59",
+                "fgp": "32,2",
+                "assist": "11",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "20",
+                "rt": "27",
+                "pf": "15",
+                "rf": "20",
+                "to": "15",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "61",
+                "fouls": "15",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "p1m": "6",
+                "p1a": "10",
+                "p1p": "60,0",
+                "p2m": "20",
+                "p2a": "41",
+                "p2p": "48,8",
+                "p3m": "10",
+                "p3a": "18",
+                "p3p": "55,6",
+                "fgm": "30",
+                "fga": "59",
+                "fgp": "50,8",
+                "assist": "15",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "4",
+                "rd": "27",
+                "rt": "31",
+                "pf": "20",
+                "rf": "15",
+                "to": "14",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "20",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

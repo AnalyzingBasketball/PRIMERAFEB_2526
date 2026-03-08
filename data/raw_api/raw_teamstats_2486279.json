@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "10-10-2025 - 20:45",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "ZAMORA RODRIGUEZ, ANTONIO MANUEL",
+        "referee3": "PIÑEIRO AMONDARAY, LAURA",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "89",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "93",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "23",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "19",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "25",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "26"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "28",
+                "p1a": "36",
+                "p1p": "77,8",
+                "p2m": "14",
+                "p2a": "26",
+                "p2p": "53,8",
+                "p3m": "11",
+                "p3a": "39",
+                "p3p": "28,2",
+                "fgm": "25",
+                "fga": "65",
+                "fgp": "38,5",
+                "assist": "9",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "23",
+                "rt": "30",
+                "pf": "26",
+                "rf": "29",
+                "to": "7",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "89",
+                "fouls": "26",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "25",
+                "p1a": "31",
+                "p1p": "80,6",
+                "p2m": "25",
+                "p2a": "44",
+                "p2p": "56,8",
+                "p3m": "6",
+                "p3a": "19",
+                "p3p": "31,6",
+                "fgm": "31",
+                "fga": "63",
+                "fgp": "49,2",
+                "assist": "10",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "29",
+                "rt": "36",
+                "pf": "29",
+                "rf": "25",
+                "to": "9",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "93",
+                "fouls": "29",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "22-11-2025 - 19:00",
+        "place": "C/ RIO IBIAS Nº 3 33010   OVIEDO ASTURIAS, Asturias (Oviedo)",
+        "field": "PALACIO DE LOS DEPORTES DE OVIEDO",
+        "referee1": "HURTADO ALMANSA, JUAN RAMON",
+        "referee2": "GARCÍA CRESPO, MARÍA DE LOS ÁNGELES",
+        "referee3": "REMISA TRAMUNS, MIQUEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "67",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "pts": "75",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "15",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "19",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "18",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "15",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "10",
+                "p1a": "13",
+                "p1p": "76,9",
+                "p2m": "18",
+                "p2a": "36",
+                "p2p": "50,0",
+                "p3m": "7",
+                "p3a": "26",
+                "p3p": "26,9",
+                "fgm": "25",
+                "fga": "62",
+                "fgp": "40,3",
+                "assist": "16",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "24",
+                "rt": "36",
+                "pf": "18",
+                "rf": "23",
+                "to": "14",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "67",
+                "fouls": "18",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "p1m": "10",
+                "p1a": "13",
+                "p1p": "76,9",
+                "p2m": "19",
+                "p2a": "31",
+                "p2p": "61,3",
+                "p3m": "9",
+                "p3a": "26",
+                "p3p": "34,6",
+                "fgm": "28",
+                "fga": "57",
+                "fgp": "49,1",
+                "assist": "11",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "4",
+                "rd": "23",
+                "rt": "27",
+                "pf": "23",
+                "rf": "18",
+                "to": "11",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "75",
+                "fouls": "23",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

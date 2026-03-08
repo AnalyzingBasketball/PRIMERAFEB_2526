@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "25-10-2025 - 20:30",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "MARTIN VAZQUEZ, CRISTIAN",
+        "referee3": "RUIZ RAMIREZ-CRUZADO, CHRISTIAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "97",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "25",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "29"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "24",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "13",
+                    "scoreB": "22"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "18",
+                "p1a": "23",
+                "p1p": "78,3",
+                "p2m": "20",
+                "p2a": "38",
+                "p2p": "52,6",
+                "p3m": "8",
+                "p3a": "32",
+                "p3p": "25,0",
+                "fgm": "28",
+                "fga": "70",
+                "fgp": "40,0",
+                "assist": "12",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "25",
+                "rt": "34",
+                "pf": "28",
+                "rf": "24",
+                "to": "9",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "28",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "27",
+                "p1a": "35",
+                "p1p": "77,1",
+                "p2m": "23",
+                "p2a": "45",
+                "p2p": "51,1",
+                "p3m": "8",
+                "p3a": "22",
+                "p3p": "36,4",
+                "fgm": "31",
+                "fga": "67",
+                "fgp": "46,3",
+                "assist": "14",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "25",
+                "rt": "40",
+                "pf": "25",
+                "rf": "27",
+                "to": "10",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "97",
+                "fouls": "25",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

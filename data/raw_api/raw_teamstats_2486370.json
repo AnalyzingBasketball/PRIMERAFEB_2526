@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "20-12-2025 - 19:00",
+        "place": "FINCA SEVILLA, S/N, Ourense (Ourense)",
+        "field": "PAZO DOS DEPORTES PACO PAZ",
+        "referee1": "CHECA NEBOT, DANIEL",
+        "referee2": "CARPALLO MIGUELEZ, JUAN GABRIEL",
+        "referee3": "GARCÍA CRESPO, MARÍA DE LOS ÁNGELES",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "pts": "89",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "12",
+                    "scoreB": "27"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "21",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "23"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "21",
+                "p1a": "28",
+                "p1p": "75,0",
+                "p2m": "19",
+                "p2a": "43",
+                "p2p": "44,2",
+                "p3m": "6",
+                "p3a": "17",
+                "p3p": "35,3",
+                "fgm": "25",
+                "fga": "60",
+                "fgp": "41,7",
+                "assist": "11",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "15",
+                "rt": "27",
+                "pf": "16",
+                "rf": "24",
+                "to": "7",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "16",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "p1m": "10",
+                "p1a": "18",
+                "p1p": "55,6",
+                "p2m": "23",
+                "p2a": "38",
+                "p2p": "60,5",
+                "p3m": "11",
+                "p3a": "22",
+                "p3p": "50,0",
+                "fgm": "34",
+                "fga": "60",
+                "fgp": "56,7",
+                "assist": "19",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "20",
+                "rt": "31",
+                "pf": "25",
+                "rf": "16",
+                "to": "12",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "89",
+                "fouls": "25",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

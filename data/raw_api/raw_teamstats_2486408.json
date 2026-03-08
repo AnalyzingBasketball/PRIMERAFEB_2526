@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "17-01-2026 - 19:00",
+        "place": "C/ RIO IBIAS Nº 3 33010   OVIEDO ASTURIAS, Asturias (Oviedo)",
+        "field": "PALACIO DE LOS DEPORTES DE OVIEDO",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "REMISA TRAMUNS, MIQUEL",
+        "referee3": "DEL VAL NUÑO, SERGIO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "101",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "pts": "70",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "16",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "27",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "28",
+                    "scoreB": "12"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "30",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "15",
+                "p1a": "23",
+                "p1p": "65,2",
+                "p2m": "13",
+                "p2a": "25",
+                "p2p": "52,0",
+                "p3m": "20",
+                "p3a": "41",
+                "p3p": "48,8",
+                "fgm": "33",
+                "fga": "66",
+                "fgp": "50,0",
+                "assist": "21",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "27",
+                "rt": "37",
+                "pf": "18",
+                "rf": "24",
+                "to": "8",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "101",
+                "fouls": "18",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "p1m": "14",
+                "p1a": "18",
+                "p1p": "77,8",
+                "p2m": "13",
+                "p2a": "36",
+                "p2p": "36,1",
+                "p3m": "10",
+                "p3a": "25",
+                "p3p": "40,0",
+                "fgm": "23",
+                "fga": "61",
+                "fgp": "37,7",
+                "assist": "16",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "20",
+                "rt": "26",
+                "pf": "24",
+                "rf": "18",
+                "to": "11",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "70",
+                "fouls": "24",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

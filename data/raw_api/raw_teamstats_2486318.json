@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "08-11-2025 - 19:30",
+        "place": "C/ ANGEL NIETO, S/N, Zamora (Zamora)",
+        "field": "PABELLON ANGEL NIETO",
+        "referee1": "ZAMORA RODRIGUEZ, ANTONIO MANUEL",
+        "referee2": "OLIVARES BERNABEU, JOSEP MARIA",
+        "referee3": "BENAVENTE PARRA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            },
+            {
+                "pts": "102",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "23",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "10",
+                    "scoreB": "42"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "27",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "17",
+                    "scoreB": "24"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "19",
+                "p1a": "24",
+                "p1p": "79,2",
+                "p2m": "17",
+                "p2a": "33",
+                "p2p": "51,5",
+                "p3m": "8",
+                "p3a": "27",
+                "p3p": "29,6",
+                "fgm": "25",
+                "fga": "60",
+                "fgp": "41,7",
+                "assist": "11",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "24",
+                "rt": "34",
+                "pf": "21",
+                "rf": "20",
+                "to": "18",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "21",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            },
+            {
+                "p1m": "13",
+                "p1a": "20",
+                "p1p": "65,0",
+                "p2m": "19",
+                "p2a": "35",
+                "p2p": "54,3",
+                "p3m": "17",
+                "p3a": "38",
+                "p3p": "44,7",
+                "fgm": "36",
+                "fga": "73",
+                "fgp": "49,3",
+                "assist": "16",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "23",
+                "rt": "35",
+                "pf": "22",
+                "rf": "21",
+                "to": "8",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "102",
+                "fouls": "22",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

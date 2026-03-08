@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "17-12-2025 - 20:00",
+        "place": "MIRAMON PASEALEKUA, Guipúzcoa (Donostia-San Sebastián)",
+        "field": "AMENABAR ARENA",
+        "referee1": "LUCAS DE LUCAS , ANGEL DE",
+        "referee2": "RODRIGUEZ FERNANDEZ, PABLO",
+        "referee3": "PINELA GARCIA, JUAN ALBERTO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "84",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "pts": "62",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "30",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "11"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "20",
+                    "scoreB": "15"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "13",
+                "p1a": "19",
+                "p1p": "68,4",
+                "p2m": "22",
+                "p2a": "37",
+                "p2p": "59,5",
+                "p3m": "9",
+                "p3a": "33",
+                "p3p": "27,3",
+                "fgm": "31",
+                "fga": "70",
+                "fgp": "44,3",
+                "assist": "11",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "17",
+                "rd": "27",
+                "rt": "44",
+                "pf": "24",
+                "rf": "21",
+                "to": "10",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "84",
+                "fouls": "24",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "p1m": "23",
+                "p1a": "31",
+                "p1p": "74,2",
+                "p2m": "9",
+                "p2a": "27",
+                "p2p": "33,3",
+                "p3m": "7",
+                "p3a": "22",
+                "p3p": "31,8",
+                "fgm": "16",
+                "fga": "49",
+                "fgp": "32,7",
+                "assist": "13",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "4",
+                "rd": "23",
+                "rt": "27",
+                "pf": "21",
+                "rf": "24",
+                "to": "12",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "62",
+                "fouls": "21",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

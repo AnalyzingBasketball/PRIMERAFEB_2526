@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "27-09-2025 - 19:00",
+        "place": "AVDA. DE LA CONSTITUCION, 9, Cantabria (Torrelavega)",
+        "field": "PABELLÓN VICENTE TRUEBA",
+        "referee1": "QUINTAS ALVAREZ, ASIER",
+        "referee2": "BÁEZ BATISTA, HÉCTOR",
+        "referee3": "GALLEGO RODRIGUEZ, CARLOS",
+        "status": null,
+        "statusText": null,
+        "TEAM": [
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "pts": "96",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "19",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "29"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "27"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "21",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "22",
+                "p1a": "28",
+                "p1p": "78,6",
+                "p2m": "10",
+                "p2a": "29",
+                "p2p": "34,5",
+                "p3m": "10",
+                "p3a": "30",
+                "p3p": "33,3",
+                "fgm": "20",
+                "fga": "59",
+                "fgp": "33,9",
+                "assist": "14",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "16",
+                "rt": "26",
+                "pf": "20",
+                "rf": "25",
+                "to": "17",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "20",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "p1m": "8",
+                "p1a": "13",
+                "p1p": "61,5",
+                "p2m": "29",
+                "p2a": "51",
+                "p2p": "56,9",
+                "p3m": "10",
+                "p3a": "18",
+                "p3p": "55,6",
+                "fgm": "39",
+                "fga": "69",
+                "fgp": "56,5",
+                "assist": "16",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "27",
+                "rt": "36",
+                "pf": "25",
+                "rf": "19",
+                "to": "13",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "96",
+                "fouls": "25",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

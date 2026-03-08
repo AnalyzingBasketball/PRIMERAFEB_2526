@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "26-09-2025 - 20:45",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "LOPEZ HERRADA, ENRIQUE",
+        "referee2": "MARTINEZ PRADA, JESUS MARCOS",
+        "referee3": "CAAMAÑO MUÑOZ, JORGE",
+        "status": null,
+        "statusText": null,
+        "TEAM": [
+            {
+                "pts": "106",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "91",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "27",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "28",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "31",
+                    "scoreB": "26"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "13",
+                "p1a": "15",
+                "p1p": "86,7",
+                "p2m": "30",
+                "p2a": "42",
+                "p2p": "71,4",
+                "p3m": "11",
+                "p3a": "28",
+                "p3p": "39,3",
+                "fgm": "41",
+                "fga": "70",
+                "fgp": "58,6",
+                "assist": "23",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "23",
+                "rt": "32",
+                "pf": "22",
+                "rf": "16",
+                "to": "12",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "106",
+                "fouls": "22",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "14",
+                "p1a": "20",
+                "p1p": "70,0",
+                "p2m": "31",
+                "p2a": "52",
+                "p2p": "59,6",
+                "p3m": "5",
+                "p3a": "20",
+                "p3p": "25,0",
+                "fgm": "36",
+                "fga": "72",
+                "fgp": "50,0",
+                "assist": "14",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "17",
+                "rt": "23",
+                "pf": "17",
+                "rf": "22",
+                "to": "10",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "91",
+                "fouls": "17",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

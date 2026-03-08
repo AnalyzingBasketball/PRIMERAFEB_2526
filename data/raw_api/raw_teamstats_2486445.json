@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "15-02-2026 - 19:30",
+        "place": "Plaza, Manuel Fernández de Castro y Pedrera, 2,, Melilla (Melilla)",
+        "field": "PABELLÓN DE DEPORTES JAVIER IMBRODA ORTIZ",
+        "referee1": "MORALES Gª-ALCAIDE, JUAN P.",
+        "referee2": "GARVIN DOMINGO, RODRIGO",
+        "referee3": "CALVO ACEÑA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "70",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "pts": "92",
+                "fouls": null,
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "19",
+                    "scoreB": "26"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "21",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "14",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "16",
+                    "scoreB": "23"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "4",
+                "p1a": "9",
+                "p1p": "44,4",
+                "p2m": "15",
+                "p2a": "31",
+                "p2p": "48,4",
+                "p3m": "12",
+                "p3a": "36",
+                "p3p": "33,3",
+                "fgm": "27",
+                "fga": "67",
+                "fgp": "40,3",
+                "assist": "21",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "15",
+                "rt": "30",
+                "pf": "15",
+                "rf": "19",
+                "to": "18",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "70",
+                "fouls": "15",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "p1m": "9",
+                "p1a": "13",
+                "p1p": "69,2",
+                "p2m": "25",
+                "p2a": "38",
+                "p2p": "65,8",
+                "p3m": "11",
+                "p3a": "23",
+                "p3p": "47,8",
+                "fgm": "36",
+                "fga": "61",
+                "fgp": "59,0",
+                "assist": "23",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "25",
+                "rt": "35",
+                "pf": "19",
+                "rf": "15",
+                "to": "15",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "92",
+                "fouls": "19",
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

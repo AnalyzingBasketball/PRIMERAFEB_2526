@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "22-11-2025 - 19:00",
+        "place": "AVDA. OBISPO BARBERÁ, S/N, Palencia (Palencia)",
+        "field": "PABELLÓN MUNICIPAL DE DEPORTES (PALENCIA)",
+        "referee1": "ZAFRA GUERRA, FRANCISCO JOSE",
+        "referee2": "AVILA ZURITA, JAVIER",
+        "referee3": "CHACON BLAZQUEZ, ISRAEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "83",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "pts": "52",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "22",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "11"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "12"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "11"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "20",
+                "p1a": "24",
+                "p1p": "83,3",
+                "p2m": "18",
+                "p2a": "37",
+                "p2p": "48,6",
+                "p3m": "9",
+                "p3a": "26",
+                "p3p": "34,6",
+                "fgm": "27",
+                "fga": "63",
+                "fgp": "42,9",
+                "assist": "12",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "34",
+                "rt": "42",
+                "pf": "20",
+                "rf": "23",
+                "to": "10",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "83",
+                "fouls": "20",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "p1m": "8",
+                "p1a": "12",
+                "p1p": "66,7",
+                "p2m": "13",
+                "p2a": "38",
+                "p2p": "34,2",
+                "p3m": "6",
+                "p3a": "26",
+                "p3p": "23,1",
+                "fgm": "19",
+                "fga": "64",
+                "fgp": "29,7",
+                "assist": "11",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "18",
+                "rt": "26",
+                "pf": "24",
+                "rf": "19",
+                "to": "9",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "52",
+                "fouls": "24",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

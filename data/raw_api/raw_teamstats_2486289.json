@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "19-10-2025 - 18:30",
+        "place": "AVDA. FELIPE II, S/N, Madrid (Madrid)",
+        "field": "MOVISTAR ARENA",
+        "referee1": "CHECA NEBOT, DANIEL",
+        "referee2": "ARESTE GIRALT, EVA",
+        "referee3": "CALVO ACEÑA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "88",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "24",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "26",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "19",
+                    "scoreB": "11"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "22",
+                "p1a": "26",
+                "p1p": "84,6",
+                "p2m": "18",
+                "p2a": "35",
+                "p2p": "51,4",
+                "p3m": "10",
+                "p3a": "27",
+                "p3p": "37,0",
+                "fgm": "28",
+                "fga": "62",
+                "fgp": "45,2",
+                "assist": "8",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "18",
+                "rt": "28",
+                "pf": "24",
+                "rf": "23",
+                "to": "7",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "88",
+                "fouls": "24",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "19",
+                "p1a": "23",
+                "p1p": "82,6",
+                "p2m": "18",
+                "p2a": "32",
+                "p2p": "56,3",
+                "p3m": "9",
+                "p3a": "24",
+                "p3p": "37,5",
+                "fgm": "27",
+                "fga": "56",
+                "fgp": "48,2",
+                "assist": "6",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "22",
+                "rt": "30",
+                "pf": "24",
+                "rf": "23",
+                "to": "9",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "24",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "14-12-2025 - 11:30",
+        "place": "AVDA. FELIPE II, S/N, Madrid (Madrid)",
+        "field": "MOVISTAR ARENA",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "ALBACETE CHAMON, ANGEL ANTONIO",
+        "referee3": "GARCIA SANTOS, MARC",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "102",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "85",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "22",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "32",
+                    "scoreB": "26"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "12",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "36",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "22",
+                "p1a": "27",
+                "p1p": "81,5",
+                "p2m": "22",
+                "p2a": "34",
+                "p2p": "64,7",
+                "p3m": "12",
+                "p3a": "26",
+                "p3p": "46,2",
+                "fgm": "34",
+                "fga": "60",
+                "fgp": "56,7",
+                "assist": "20",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "19",
+                "rt": "27",
+                "pf": "23",
+                "rf": "23",
+                "to": "12",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "102",
+                "fouls": "23",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "18",
+                "p1a": "25",
+                "p1p": "72,0",
+                "p2m": "14",
+                "p2a": "31",
+                "p2p": "45,2",
+                "p3m": "13",
+                "p3a": "26",
+                "p3p": "50,0",
+                "fgm": "27",
+                "fga": "57",
+                "fgp": "47,4",
+                "assist": "22",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "15",
+                "rt": "25",
+                "pf": "23",
+                "rf": "23",
+                "to": "16",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "85",
+                "fouls": "23",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

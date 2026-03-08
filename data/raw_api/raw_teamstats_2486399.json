@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "10-01-2026 - 19:00",
+        "place": "AVDA. DE LA CONSTITUCION, 9, Cantabria (Torrelavega)",
+        "field": "PABELLÓN VICENTE TRUEBA",
+        "referee1": "CHECA NEBOT, DANIEL",
+        "referee2": "RODRIGUEZ FERNANDEZ, PABLO",
+        "referee3": "LOPEZ LECUONA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "73",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "17",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "18",
+                    "scoreB": "20"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "9",
+                "p1a": "12",
+                "p1p": "75,0",
+                "p2m": "23",
+                "p2a": "37",
+                "p2p": "62,2",
+                "p3m": "6",
+                "p3a": "29",
+                "p3p": "20,7",
+                "fgm": "29",
+                "fga": "66",
+                "fgp": "43,9",
+                "assist": "14",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "23",
+                "rt": "33",
+                "pf": "17",
+                "rf": "16",
+                "to": "13",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "73",
+                "fouls": "17",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            },
+            {
+                "p1m": "14",
+                "p1a": "21",
+                "p1p": "66,7",
+                "p2m": "16",
+                "p2a": "27",
+                "p2p": "59,3",
+                "p3m": "10",
+                "p3a": "29",
+                "p3p": "34,5",
+                "fgm": "26",
+                "fga": "56",
+                "fgp": "46,4",
+                "assist": "15",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "24",
+                "rt": "32",
+                "pf": "16",
+                "rf": "17",
+                "to": "16",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "16",
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

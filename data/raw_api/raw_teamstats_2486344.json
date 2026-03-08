@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "05-12-2025 - 20:30",
+        "place": "PASEO MIRAMON 2, Guipúzcoa (Donostia-San Sebastián)",
+        "field": "AMENABAR ARENA",
+        "referee1": "ZAMORA RODRIGUEZ, ANTONIO MANUEL",
+        "referee2": "IBAÑEZ GARCIA, FERNANDO",
+        "referee3": "ARANZANA GARCIA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "pts": "70",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "21",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "14",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "14"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "14",
+                "p1a": "16",
+                "p1p": "87,5",
+                "p2m": "18",
+                "p2a": "29",
+                "p2p": "62,1",
+                "p3m": "9",
+                "p3a": "38",
+                "p3p": "23,7",
+                "fgm": "27",
+                "fga": "67",
+                "fgp": "40,3",
+                "assist": "18",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "25",
+                "rt": "37",
+                "pf": "19",
+                "rf": "22",
+                "to": "9",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "19",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "p1m": "23",
+                "p1a": "30",
+                "p1p": "76,7",
+                "p2m": "19",
+                "p2a": "41",
+                "p2p": "46,3",
+                "p3m": "3",
+                "p3a": "15",
+                "p3p": "20,0",
+                "fgm": "22",
+                "fga": "56",
+                "fgp": "39,3",
+                "assist": "8",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "24",
+                "rt": "31",
+                "pf": "22",
+                "rf": "19",
+                "to": "9",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "70",
+                "fouls": "22",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

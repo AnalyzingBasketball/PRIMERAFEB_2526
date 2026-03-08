@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "20-12-2025 - 19:00",
+        "place": "AVDA. DEL CANTÓN S/N, Murcia (Cartagena)",
+        "field": "PALACIO DE LOS DEPORTES DE CARTAGENA",
+        "referee1": "IBAÑEZ GARCIA, FERNANDO",
+        "referee2": "SIERRA CARRILLO, JOSE CARLOS",
+        "referee3": "CHACON BLAZQUEZ, ISRAEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "80",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "pts": "89",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "14",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "22",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "25",
+                    "scoreB": "21"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "15",
+                "p1a": "19",
+                "p1p": "78,9",
+                "p2m": "16",
+                "p2a": "37",
+                "p2p": "43,2",
+                "p3m": "11",
+                "p3a": "34",
+                "p3p": "32,4",
+                "fgm": "27",
+                "fga": "71",
+                "fgp": "38,0",
+                "assist": "17",
+                "bs": "6",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "18",
+                "rt": "33",
+                "pf": "24",
+                "rf": "20",
+                "to": "10",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "80",
+                "fouls": "24",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "p1m": "20",
+                "p1a": "27",
+                "p1p": "74,1",
+                "p2m": "24",
+                "p2a": "42",
+                "p2p": "57,1",
+                "p3m": "7",
+                "p3a": "28",
+                "p3p": "25,0",
+                "fgm": "31",
+                "fga": "70",
+                "fgp": "44,3",
+                "assist": "20",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "17",
+                "rd": "26",
+                "rt": "43",
+                "pf": "20",
+                "rf": "24",
+                "to": "16",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "89",
+                "fouls": "20",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

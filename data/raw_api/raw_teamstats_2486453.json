@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "20-02-2026 - 21:00",
+        "place": "AVDA. OBISPO BARBERÁ, S/N, Palencia (Palencia)",
+        "field": "PABELLÓN MUNICIPAL DE DEPORTES (PALENCIA)",
+        "referee1": "LUCAS DE LUCAS , ANGEL DE",
+        "referee2": "MARTINEZ PRADA, JESUS MARCOS",
+        "referee3": "SEIJO VAZQUEZ, MANUEL ANDRES",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "97",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "pts": "74",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "23",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "30",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "7",
+                "p1a": "15",
+                "p1p": "46,7",
+                "p2m": "21",
+                "p2a": "34",
+                "p2p": "61,8",
+                "p3m": "16",
+                "p3a": "33",
+                "p3p": "48,5",
+                "fgm": "37",
+                "fga": "67",
+                "fgp": "55,2",
+                "assist": "21",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "31",
+                "rt": "39",
+                "pf": "22",
+                "rf": "15",
+                "to": "9",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "97",
+                "fouls": "22",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            },
+            {
+                "p1m": "10",
+                "p1a": "18",
+                "p1p": "55,6",
+                "p2m": "20",
+                "p2a": "42",
+                "p2p": "47,6",
+                "p3m": "8",
+                "p3a": "27",
+                "p3p": "29,6",
+                "fgm": "28",
+                "fga": "69",
+                "fgp": "40,6",
+                "assist": "11",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "22",
+                "rt": "31",
+                "pf": "15",
+                "rf": "22",
+                "to": "11",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "74",
+                "fouls": "15",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "07-12-2025 - 12:30",
+        "place": "Francisco Pérez Carballo, 2, A Coruña (Coruña, A)",
+        "field": "COLISEUM CORUÑA",
+        "referee1": "LOPEZ HERRADA, ENRIQUE",
+        "referee2": "MARTINEZ PRADA, JESUS MARCOS",
+        "referee3": "CARPALLO MIGUELEZ, JUAN GABRIEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "82",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "pts": "75",
+                "fouls": null,
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "22",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "24",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "12",
+                    "scoreB": "12"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "22",
+                "p1a": "27",
+                "p1p": "81,5",
+                "p2m": "15",
+                "p2a": "29",
+                "p2p": "51,7",
+                "p3m": "10",
+                "p3a": "31",
+                "p3p": "32,3",
+                "fgm": "25",
+                "fga": "60",
+                "fgp": "41,7",
+                "assist": "14",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "29",
+                "rt": "35",
+                "pf": "22",
+                "rf": "26",
+                "to": "11",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "82",
+                "fouls": "22",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "p1m": "20",
+                "p1a": "27",
+                "p1p": "74,1",
+                "p2m": "20",
+                "p2a": "38",
+                "p2p": "52,6",
+                "p3m": "5",
+                "p3a": "23",
+                "p3p": "21,7",
+                "fgm": "25",
+                "fga": "61",
+                "fgp": "41,0",
+                "assist": "9",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "4",
+                "rd": "25",
+                "rt": "29",
+                "pf": "26",
+                "rf": "22",
+                "to": "6",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "75",
+                "fouls": "26",
+                "id": "981343",
+                "name": "SÚPER AGROPAL PALENCIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981343&ti=1",
+                "teamCode": "34000707",
+                "clubCode": "340007"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

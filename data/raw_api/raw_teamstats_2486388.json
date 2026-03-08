@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "04-01-2026 - 18:30",
+        "place": "AVDA. FELIPE II, S/N, Madrid (Madrid)",
+        "field": "MOVISTAR ARENA",
+        "referee1": "BÁEZ BATISTA, HÉCTOR",
+        "referee2": "OLIVARES BERNABEU, JOSEP MARIA",
+        "referee3": "RUIZ RAMIREZ-CRUZADO, CHRISTIAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "92",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "pts": "75",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLOUD.GAL OURENSE BALONCESTO ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "24",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "18",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "32",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "18",
+                    "scoreB": "18"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "20",
+                "p1a": "26",
+                "p1p": "76,9",
+                "p2m": "21",
+                "p2a": "31",
+                "p2p": "67,7",
+                "p3m": "10",
+                "p3a": "31",
+                "p3p": "32,3",
+                "fgm": "31",
+                "fga": "62",
+                "fgp": "50,0",
+                "assist": "19",
+                "bs": "7",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "22",
+                "rt": "31",
+                "pf": "19",
+                "rf": "26",
+                "to": "7",
+                "st": "2",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "92",
+                "fouls": "19",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            },
+            {
+                "p1m": "24",
+                "p1a": "29",
+                "p1p": "82,8",
+                "p2m": "18",
+                "p2a": "50",
+                "p2p": "36,0",
+                "p3m": "5",
+                "p3a": "18",
+                "p3p": "27,8",
+                "fgm": "23",
+                "fga": "68",
+                "fgp": "33,8",
+                "assist": "13",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "22",
+                "rt": "34",
+                "pf": "26",
+                "rf": "19",
+                "to": "7",
+                "st": "3",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "75",
+                "fouls": "26",
+                "id": "981493",
+                "name": "CLOUD.GAL OURENSE BALONCESTO ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "27-09-2025 - 19:00",
+        "place": "AVDA. DEL CANTÓN S/N, Murcia (Cartagena)",
+        "field": "PALACIO DE LOS DEPORTES DE CARTAGENA",
+        "referee1": "MUÑOZ GARCÍA, JORGE",
+        "referee2": "GARVIN DOMINGO, RODRIGO",
+        "referee3": "ACEVEDO PERERA, SERGIO",
+        "status": null,
+        "statusText": null,
+        "TEAM": [
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "pts": "70",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "16",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "23",
+                    "scoreB": "11"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "15",
+                    "scoreB": "30"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "20",
+                "p1a": "27",
+                "p1p": "74,1",
+                "p2m": "20",
+                "p2a": "36",
+                "p2p": "55,6",
+                "p3m": "4",
+                "p3a": "18",
+                "p3p": "22,2",
+                "fgm": "24",
+                "fga": "54",
+                "fgp": "44,4",
+                "assist": "9",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "29",
+                "rt": "40",
+                "pf": "22",
+                "rf": "28",
+                "to": "25",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "22",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "p1m": "10",
+                "p1a": "14",
+                "p1p": "71,4",
+                "p2m": "18",
+                "p2a": "34",
+                "p2p": "52,9",
+                "p3m": "8",
+                "p3a": "34",
+                "p3p": "23,5",
+                "fgm": "26",
+                "fga": "68",
+                "fgp": "38,2",
+                "assist": "14",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "16",
+                "rt": "25",
+                "pf": "28",
+                "rf": "22",
+                "to": "12",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "70",
+                "fouls": "28",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "08-03-2026 - 12:00",
+        "place": "CAMI DE LA VILETA, 40 - PONENT, Illes Balears (Palma de Mallorca)",
+        "field": "POLIESPORTIU SON MOIX",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "DOMINGO VILALTA, JORDI",
+        "referee3": "GALLEGO RODRIGUEZ, CARLOS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "88",
+                "fouls": null,
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            },
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "24",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "30",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "17",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "17",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "31",
+                "p1a": "42",
+                "p1p": "73,8",
+                "p2m": "18",
+                "p2a": "39",
+                "p2p": "46,2",
+                "p3m": "7",
+                "p3a": "28",
+                "p3p": "25,0",
+                "fgm": "25",
+                "fga": "67",
+                "fgp": "37,3",
+                "assist": "13",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "20",
+                "rd": "28",
+                "rt": "48",
+                "pf": "23",
+                "rf": "31",
+                "to": "14",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "88",
+                "fouls": "23",
+                "id": "981215",
+                "name": "PALMER BASKET MALLORCA PALMA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981215&ti=1",
+                "teamCode": "07038400",
+                "clubCode": "070384"
+            },
+            {
+                "p1m": "8",
+                "p1a": "22",
+                "p1p": "36,4",
+                "p2m": "17",
+                "p2a": "39",
+                "p2p": "43,6",
+                "p3m": "10",
+                "p3a": "32",
+                "p3p": "31,3",
+                "fgm": "27",
+                "fga": "71",
+                "fgp": "38,0",
+                "assist": "16",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "16",
+                "rd": "18",
+                "rt": "34",
+                "pf": "33",
+                "rf": "23",
+                "to": "12",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "33",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

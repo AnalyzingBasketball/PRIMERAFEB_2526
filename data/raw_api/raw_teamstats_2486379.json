@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "28-12-2025 - 18:00",
+        "place": "PASEO MIRAMON 2, Guipúzcoa (Donostia-San Sebastián)",
+        "field": "AMENABAR ARENA",
+        "referee1": "HURTADO ALMANSA, JUAN RAMON",
+        "referee2": "CAAMAÑO MUÑOZ, JORGE",
+        "referee3": "GALLEGO RODRIGUEZ, CARLOS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "88",
+                "fouls": null,
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "29",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "21"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "21",
+                "p1a": "27",
+                "p1p": "77,8",
+                "p2m": "23",
+                "p2a": "40",
+                "p2p": "57,5",
+                "p3m": "7",
+                "p3a": "21",
+                "p3p": "33,3",
+                "fgm": "30",
+                "fga": "61",
+                "fgp": "49,2",
+                "assist": "13",
+                "bs": "5",
+                "tc": null,
+                "mt": null,
+                "ro": "13",
+                "rd": "19",
+                "rt": "32",
+                "pf": "19",
+                "rf": "23",
+                "to": "13",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "88",
+                "fouls": "19",
+                "id": "981203",
+                "name": "INVEREADY GIPUZKOA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981203&ti=1",
+                "teamCode": "20046000",
+                "clubCode": "200460"
+            },
+            {
+                "p1m": "15",
+                "p1a": "19",
+                "p1p": "78,9",
+                "p2m": "19",
+                "p2a": "34",
+                "p2p": "55,9",
+                "p3m": "8",
+                "p3a": "21",
+                "p3p": "38,1",
+                "fgm": "27",
+                "fga": "55",
+                "fgp": "49,1",
+                "assist": "10",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "5",
+                "rd": "20",
+                "rt": "25",
+                "pf": "23",
+                "rf": "18",
+                "to": "13",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "23",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

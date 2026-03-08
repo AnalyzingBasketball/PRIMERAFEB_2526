@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "15-02-2026 - 12:00",
+        "place": "CAMÍ DE LA VILETA Nº 40, Illes Balears (Palma de Mallorca)",
+        "field": "POLIDEPORTIVO DE SON MOIX",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "MARTIN VAZQUEZ, CRISTIAN",
+        "referee3": "GALLEGO RODRIGUEZ, CARLOS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "69",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "14",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "23",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "15",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "16",
+                "p1a": "22",
+                "p1p": "72,7",
+                "p2m": "19",
+                "p2a": "38",
+                "p2p": "50,0",
+                "p3m": "5",
+                "p3a": "20",
+                "p3p": "25,0",
+                "fgm": "24",
+                "fga": "58",
+                "fgp": "41,4",
+                "assist": "12",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "19",
+                "rt": "28",
+                "pf": "21",
+                "rf": "21",
+                "to": "8",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "69",
+                "fouls": "21",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            },
+            {
+                "p1m": "14",
+                "p1a": "20",
+                "p1p": "70,0",
+                "p2m": "16",
+                "p2a": "33",
+                "p2p": "48,5",
+                "p3m": "10",
+                "p3a": "20",
+                "p3p": "50,0",
+                "fgm": "26",
+                "fga": "53",
+                "fgp": "49,1",
+                "assist": "13",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "22",
+                "rt": "28",
+                "pf": "21",
+                "rf": "21",
+                "to": "13",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "21",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

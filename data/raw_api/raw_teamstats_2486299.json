@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "25-10-2025 - 18:30",
+        "place": "GRECIA, S/N, Madrid (Fuenlabrada)",
+        "field": "FERNANDO MARTIN, PABELLON",
+        "referee1": "QUINTAS ALVAREZ, ASIER",
+        "referee2": "REMISA TRAMUNS, MIQUEL",
+        "referee3": "GALLEGO RODRIGUEZ, CARLOS",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "99",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            },
+            {
+                "pts": "81",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "20",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "31",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "21",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "27",
+                    "scoreB": "16"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "15",
+                "p1a": "23",
+                "p1p": "65,2",
+                "p2m": "21",
+                "p2a": "32",
+                "p2p": "65,6",
+                "p3m": "14",
+                "p3a": "26",
+                "p3p": "53,8",
+                "fgm": "35",
+                "fga": "58",
+                "fgp": "60,3",
+                "assist": "23",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "23",
+                "rt": "29",
+                "pf": "10",
+                "rf": "20",
+                "to": "12",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "99",
+                "fouls": "10",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            },
+            {
+                "p1m": "5",
+                "p1a": "6",
+                "p1p": "83,3",
+                "p2m": "20",
+                "p2a": "38",
+                "p2p": "52,6",
+                "p3m": "12",
+                "p3a": "30",
+                "p3p": "40,0",
+                "fgm": "32",
+                "fga": "68",
+                "fgp": "47,1",
+                "assist": "20",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "15",
+                "rt": "23",
+                "pf": "21",
+                "rf": "10",
+                "to": "13",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "81",
+                "fouls": "21",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

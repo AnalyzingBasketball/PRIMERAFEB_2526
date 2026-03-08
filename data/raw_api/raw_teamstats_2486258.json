@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "27-09-2025 - 19:00",
+        "place": "CALLE FOGUERER GILABERT DAVO s/n, Alicante (Alicante/Alacant)",
+        "field": "Centre de Tecnificació Esportiva d’Alacant",
+        "referee1": "LEZCANO, LEANDRO NICOLÁS",
+        "referee2": "FRANQUESA VAZQUEZ, POL",
+        "referee3": "ARRESA QUINTERO, JOSE MARIA",
+        "status": null,
+        "statusText": null,
+        "TEAM": [
+            {
+                "pts": "87",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "17",
+                    "scoreB": "29"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "21",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "29",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "17",
+                "p1a": "22",
+                "p1p": "77,3",
+                "p2m": "20",
+                "p2a": "37",
+                "p2p": "54,1",
+                "p3m": "10",
+                "p3a": "21",
+                "p3p": "47,6",
+                "fgm": "30",
+                "fga": "58",
+                "fgp": "51,7",
+                "assist": "21",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "19",
+                "rt": "26",
+                "pf": "21",
+                "rf": "21",
+                "to": "9",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "87",
+                "fouls": "21",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "p1m": "12",
+                "p1a": "20",
+                "p1p": "60,0",
+                "p2m": "20",
+                "p2a": "37",
+                "p2p": "54,1",
+                "p3m": "8",
+                "p3a": "26",
+                "p3p": "30,8",
+                "fgm": "28",
+                "fga": "63",
+                "fgp": "44,4",
+                "assist": "13",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "20",
+                "rt": "30",
+                "pf": "21",
+                "rf": "20",
+                "to": "9",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "21",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

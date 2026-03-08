@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "23-11-2025 - 12:15",
+        "place": "DIEGO BERNAL, S/N - MULTIUSOS FONTES DO SAR, A Coruña (Santiago de Compostela)",
+        "field": "MULTIUSOS FONTES DO SAR",
+        "referee1": "MORALES Gª-ALCAIDE, JUAN P.",
+        "referee2": "RODRIGUEZ FERNANDEZ, PABLO",
+        "referee3": "PIÑEIRO AMONDARAY, LAURA",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "99",
+                "fouls": null,
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            },
+            {
+                "pts": "89",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "29",
+                    "scoreB": "26"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "23",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "24",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "18"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "11",
+                "p1a": "16",
+                "p1p": "68,8",
+                "p2m": "23",
+                "p2a": "36",
+                "p2p": "63,9",
+                "p3m": "14",
+                "p3a": "32",
+                "p3p": "43,8",
+                "fgm": "37",
+                "fga": "68",
+                "fgp": "54,4",
+                "assist": "25",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "18",
+                "rt": "29",
+                "pf": "20",
+                "rf": "21",
+                "to": "10",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "99",
+                "fouls": "20",
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            },
+            {
+                "p1m": "14",
+                "p1a": "22",
+                "p1p": "63,6",
+                "p2m": "21",
+                "p2a": "31",
+                "p2p": "67,7",
+                "p3m": "11",
+                "p3a": "30",
+                "p3p": "36,7",
+                "fgm": "32",
+                "fga": "61",
+                "fgp": "52,5",
+                "assist": "20",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "21",
+                "rt": "27",
+                "pf": "21",
+                "rf": "20",
+                "to": "11",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "89",
+                "fouls": "21",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

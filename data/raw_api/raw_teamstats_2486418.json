@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "01-02-2026 - 18:00",
+        "place": "Plaza, Manuel Fernández de Castro y Pedrera, 2,, Melilla (Melilla)",
+        "field": "PABELLÓN DE DEPORTES JAVIER IMBRODA ORTIZ",
+        "referee1": "HURTADO ALMANSA, JUAN RAMON",
+        "referee2": "CAÑIGUERAL NOVELLA, MIKEL",
+        "referee3": "LOPEZ LECUONA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "72",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "pts": "105",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "11",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "22",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "26",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "13",
+                    "scoreB": "33"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "6",
+                "p1a": "8",
+                "p1p": "75,0",
+                "p2m": "18",
+                "p2a": "38",
+                "p2p": "47,4",
+                "p3m": "10",
+                "p3a": "33",
+                "p3p": "30,3",
+                "fgm": "28",
+                "fga": "71",
+                "fgp": "39,4",
+                "assist": "22",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "16",
+                "rd": "21",
+                "rt": "37",
+                "pf": "17",
+                "rf": "18",
+                "to": "21",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "72",
+                "fouls": "17",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "p1m": "12",
+                "p1a": "16",
+                "p1p": "75,0",
+                "p2m": "33",
+                "p2a": "52",
+                "p2p": "63,5",
+                "p3m": "9",
+                "p3a": "24",
+                "p3p": "37,5",
+                "fgm": "42",
+                "fga": "76",
+                "fgp": "55,3",
+                "assist": "27",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "25",
+                "rt": "34",
+                "pf": "18",
+                "rf": "16",
+                "to": "7",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "105",
+                "fouls": "18",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

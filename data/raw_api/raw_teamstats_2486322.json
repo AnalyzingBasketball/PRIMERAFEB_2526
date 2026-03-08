@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "16-11-2025 - 18:00",
+        "place": "CAMÍ DE LA VILETA Nº 40, Illes Balears (Palma de Mallorca)",
+        "field": "POLIDEPORTIVO DE SON MOIX",
+        "referee1": "ZAFRA GUERRA, FRANCISCO JOSE",
+        "referee2": "GARVIN DOMINGO, RODRIGO",
+        "referee3": "ARANZANA GARCIA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "83",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "20",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "19"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "19",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "19"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "14",
+                "p1a": "17",
+                "p1p": "82,4",
+                "p2m": "21",
+                "p2a": "37",
+                "p2p": "56,8",
+                "p3m": "9",
+                "p3a": "32",
+                "p3p": "28,1",
+                "fgm": "30",
+                "fga": "69",
+                "fgp": "43,5",
+                "assist": "19",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "14",
+                "rt": "26",
+                "pf": "23",
+                "rf": "21",
+                "to": "11",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "83",
+                "fouls": "23",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            },
+            {
+                "p1m": "17",
+                "p1a": "25",
+                "p1p": "68,0",
+                "p2m": "22",
+                "p2a": "37",
+                "p2p": "59,5",
+                "p3m": "5",
+                "p3a": "23",
+                "p3p": "21,7",
+                "fgm": "27",
+                "fga": "60",
+                "fgp": "45,0",
+                "assist": "16",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "24",
+                "rt": "38",
+                "pf": "21",
+                "rf": "23",
+                "to": "18",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "21",
+                "id": "981493",
+                "name": "CLUB OURENSE BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

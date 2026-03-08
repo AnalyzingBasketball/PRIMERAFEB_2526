@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "31-10-2025 - 20:45",
+        "place": "Francisco Pérez Carballo, 2, A Coruña (Coruña, A)",
+        "field": "COLISEUM CORUÑA",
+        "referee1": "ZAFRA GUERRA, FRANCISCO JOSE",
+        "referee2": "GOMEZ LUQUE, JAIME",
+        "referee3": "SANHERMELANDO GARCIA, HECTOR",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "101",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "pts": "75",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "28",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "23",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "28",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "23"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "17",
+                "p1a": "22",
+                "p1p": "77,3",
+                "p2m": "21",
+                "p2a": "32",
+                "p2p": "65,6",
+                "p3m": "14",
+                "p3a": "38",
+                "p3p": "36,8",
+                "fgm": "35",
+                "fga": "70",
+                "fgp": "50,0",
+                "assist": "21",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "20",
+                "rt": "34",
+                "pf": "21",
+                "rf": "21",
+                "to": "8",
+                "st": "11",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "101",
+                "fouls": "21",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "p1m": "10",
+                "p1a": "16",
+                "p1p": "62,5",
+                "p2m": "19",
+                "p2a": "32",
+                "p2p": "59,4",
+                "p3m": "9",
+                "p3a": "23",
+                "p3p": "39,1",
+                "fgm": "28",
+                "fga": "55",
+                "fgp": "50,9",
+                "assist": "23",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "18",
+                "rt": "25",
+                "pf": "22",
+                "rf": "21",
+                "to": "17",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "75",
+                "fouls": "22",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

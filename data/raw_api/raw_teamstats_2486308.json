@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "01-11-2025 - 19:00",
+        "place": "C/ RIO IBIAS Nº 3 33010   OVIEDO ASTURIAS, Asturias (Oviedo)",
+        "field": "PALACIO DE LOS DEPORTES DE OVIEDO",
+        "referee1": "LEMA PARGA, PAULA",
+        "referee2": "GONZALEZ CUERVO, FRANCISCO",
+        "referee3": "BENAVENTE PARRA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "75",
+                "fouls": null,
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "pts": "79",
+                "fouls": null,
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "20",
+                    "scoreB": "27"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "18",
+                    "scoreB": "21"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "17",
+                "p1a": "19",
+                "p1p": "89,5",
+                "p2m": "17",
+                "p2a": "28",
+                "p2p": "60,7",
+                "p3m": "8",
+                "p3a": "37",
+                "p3p": "21,6",
+                "fgm": "25",
+                "fga": "65",
+                "fgp": "38,5",
+                "assist": "11",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "14",
+                "rd": "23",
+                "rt": "37",
+                "pf": "18",
+                "rf": "23",
+                "to": "13",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "75",
+                "fouls": "18",
+                "id": "981124",
+                "name": "ALIMERKA OVIEDO BALONCESTO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981124&ti=1",
+                "teamCode": "33130200",
+                "clubCode": "331302"
+            },
+            {
+                "p1m": "11",
+                "p1a": "15",
+                "p1p": "73,3",
+                "p2m": "22",
+                "p2a": "40",
+                "p2p": "55,0",
+                "p3m": "8",
+                "p3a": "25",
+                "p3p": "32,0",
+                "fgm": "30",
+                "fga": "65",
+                "fgp": "46,2",
+                "assist": "17",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "22",
+                "rt": "29",
+                "pf": "24",
+                "rf": "17",
+                "to": "12",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "79",
+                "fouls": "24",
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

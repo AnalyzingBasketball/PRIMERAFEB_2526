@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-10-2025 - 19:30",
+        "place": "Camí de Bintaufa 18, Illes Balears (Mahón)",
+        "field": "Pavelló Menorca",
+        "referee1": "MAS CAGIDE, VICTOR",
+        "referee2": "MUÑOZ GARCÍA, JORGE",
+        "referee3": "PINELA GARCIA, JUAN ALBERTO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "80",
+                "fouls": null,
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            },
+            {
+                "pts": "102",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "22",
+                    "scoreB": "26"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "18",
+                    "scoreB": "28"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "20",
+                    "scoreB": "25"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "19",
+                "p1a": "22",
+                "p1p": "86,4",
+                "p2m": "17",
+                "p2a": "33",
+                "p2p": "51,5",
+                "p3m": "9",
+                "p3a": "29",
+                "p3p": "31,0",
+                "fgm": "26",
+                "fga": "62",
+                "fgp": "41,9",
+                "assist": "13",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "9",
+                "rd": "20",
+                "rt": "29",
+                "pf": "27",
+                "rf": "22",
+                "to": "15",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "80",
+                "fouls": "27",
+                "id": "981300",
+                "name": "HESTIA MENORCA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981300&ti=1",
+                "teamCode": "07033323",
+                "clubCode": "070333"
+            },
+            {
+                "p1m": "22",
+                "p1a": "29",
+                "p1p": "75,9",
+                "p2m": "25",
+                "p2a": "43",
+                "p2p": "58,1",
+                "p3m": "10",
+                "p3a": "23",
+                "p3p": "43,5",
+                "fgm": "35",
+                "fga": "66",
+                "fgp": "53,0",
+                "assist": "18",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "22",
+                "rt": "30",
+                "pf": "22",
+                "rf": "27",
+                "to": "11",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "102",
+                "fouls": "22",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

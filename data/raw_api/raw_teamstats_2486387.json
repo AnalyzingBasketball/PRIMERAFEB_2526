@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "04-01-2026 - 12:30",
+        "place": "Francisco Pérez Carballo, 2, A Coruña (Coruña, A)",
+        "field": "COLISEUM CORUÑA",
+        "referee1": "GARCIA LEON, CARLOS JAVIER",
+        "referee2": "GOMEZ LUQUE, JAIME",
+        "referee3": "BENAVENTE PARRA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "102",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "pts": "67",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "30",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "20",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "32",
+                    "scoreB": "20"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "18",
+                "p1a": "23",
+                "p1p": "78,3",
+                "p2m": "24",
+                "p2a": "38",
+                "p2p": "63,2",
+                "p3m": "12",
+                "p3a": "24",
+                "p3p": "50,0",
+                "fgm": "36",
+                "fga": "62",
+                "fgp": "58,1",
+                "assist": "31",
+                "bs": "0",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "27",
+                "rt": "33",
+                "pf": "17",
+                "rf": "20",
+                "to": "9",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "102",
+                "fouls": "17",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "p1m": "8",
+                "p1a": "13",
+                "p1p": "61,5",
+                "p2m": "16",
+                "p2a": "33",
+                "p2p": "48,5",
+                "p3m": "9",
+                "p3a": "22",
+                "p3p": "40,9",
+                "fgm": "25",
+                "fga": "55",
+                "fgp": "45,5",
+                "assist": "13",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "3",
+                "rd": "20",
+                "rt": "23",
+                "pf": "20",
+                "rf": "17",
+                "to": "15",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "67",
+                "fouls": "20",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

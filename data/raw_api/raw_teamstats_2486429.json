@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-02-2026 - 20:45",
+        "place": "CALLE FOGUERER GILABERT DAVO s/n, Alicante (Alicante/Alacant)",
+        "field": "Centre de Tecnificació Esportiva d’Alacant",
+        "referee1": "ZAFRA GUERRA, FRANCISCO JOSE",
+        "referee2": "DOMINGO VILALTA, JORDI",
+        "referee3": "FANES MARGINET, JOAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "78",
+                "fouls": null,
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "pts": "71",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "14",
+                    "scoreB": "11"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "19",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "22",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "23",
+                    "scoreB": "27"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "24",
+                "p1a": "30",
+                "p1p": "80,0",
+                "p2m": "15",
+                "p2a": "35",
+                "p2p": "42,9",
+                "p3m": "8",
+                "p3a": "23",
+                "p3p": "34,8",
+                "fgm": "23",
+                "fga": "58",
+                "fgp": "39,7",
+                "assist": "20",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "28",
+                "rt": "35",
+                "pf": "20",
+                "rf": "26",
+                "to": "11",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "78",
+                "fouls": "20",
+                "id": "979989",
+                "name": "HLA ALICANTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979989&ti=1",
+                "teamCode": "03058600",
+                "clubCode": "030586"
+            },
+            {
+                "p1m": "6",
+                "p1a": "9",
+                "p1p": "66,7",
+                "p2m": "13",
+                "p2a": "39",
+                "p2p": "33,3",
+                "p3m": "13",
+                "p3a": "36",
+                "p3p": "36,1",
+                "fgm": "26",
+                "fga": "75",
+                "fgp": "34,7",
+                "assist": "12",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "15",
+                "rd": "26",
+                "rt": "41",
+                "pf": "27",
+                "rf": "20",
+                "to": "13",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "71",
+                "fouls": "27",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

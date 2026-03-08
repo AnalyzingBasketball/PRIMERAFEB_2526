@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "01-11-2025 - 20:00",
+        "place": "AVDA. DEL CANTÓN S/N, Murcia (Cartagena)",
+        "field": "PALACIO DE LOS DEPORTES DE CARTAGENA",
+        "referee1": "BÁEZ BATISTA, HÉCTOR",
+        "referee2": "ALBACETE CHAMON, ANGEL ANTONIO",
+        "referee3": "RODRIGUEZ FERNANDEZ, PABLO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "68",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "pts": "95",
+                "fouls": null,
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "10",
+                    "scoreB": "24"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "13",
+                    "scoreB": "23"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "25",
+                    "scoreB": "28"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "13",
+                "p1a": "20",
+                "p1p": "65,0",
+                "p2m": "14",
+                "p2a": "35",
+                "p2p": "40,0",
+                "p3m": "9",
+                "p3a": "27",
+                "p3p": "33,3",
+                "fgm": "23",
+                "fga": "62",
+                "fgp": "37,1",
+                "assist": "12",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "20",
+                "rt": "28",
+                "pf": "24",
+                "rf": "23",
+                "to": "13",
+                "st": "4",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "68",
+                "fouls": "24",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "p1m": "26",
+                "p1a": "33",
+                "p1p": "78,8",
+                "p2m": "18",
+                "p2a": "34",
+                "p2p": "52,9",
+                "p3m": "11",
+                "p3a": "24",
+                "p3p": "45,8",
+                "fgm": "29",
+                "fga": "58",
+                "fgp": "50,0",
+                "assist": "17",
+                "bs": "8",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "24",
+                "rt": "30",
+                "pf": "23",
+                "rf": "22",
+                "to": "10",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "95",
+                "fouls": "23",
+                "id": "981431",
+                "name": "MOVISTAR ESTUDIANTES",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981431&ti=1",
+                "teamCode": "28000100",
+                "clubCode": "280001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

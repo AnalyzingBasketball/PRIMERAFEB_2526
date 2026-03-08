@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-01-2026 - 18:00",
+        "place": "GRECIA, S/N, Madrid (Fuenlabrada)",
+        "field": "FERNANDO MARTIN, PABELLON",
+        "referee1": "PALANCA PAGE, RODRIGO",
+        "referee2": "CAÑIGUERAL NOVELLA, MIKEL",
+        "referee3": "LAZARO RODRIGUEZ, ALBERTO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "79",
+                "fouls": null,
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            },
+            {
+                "pts": "61",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "28",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "16",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "23",
+                    "scoreB": "17"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "12",
+                    "scoreB": "13"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "11",
+                "p1a": "16",
+                "p1p": "68,8",
+                "p2m": "19",
+                "p2a": "36",
+                "p2p": "52,8",
+                "p3m": "10",
+                "p3a": "27",
+                "p3p": "37,0",
+                "fgm": "29",
+                "fga": "63",
+                "fgp": "46,0",
+                "assist": "15",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "30",
+                "rt": "42",
+                "pf": "20",
+                "rf": "20",
+                "to": "14",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "79",
+                "fouls": "20",
+                "id": "981525",
+                "name": "FLEXICAR FUENLABRADA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981525&ti=1",
+                "teamCode": "28332300",
+                "clubCode": "283323"
+            },
+            {
+                "p1m": "18",
+                "p1a": "23",
+                "p1p": "78,3",
+                "p2m": "14",
+                "p2a": "42",
+                "p2p": "33,3",
+                "p3m": "5",
+                "p3a": "23",
+                "p3p": "21,7",
+                "fgm": "19",
+                "fga": "65",
+                "fgp": "29,2",
+                "assist": "6",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "10",
+                "rd": "20",
+                "rt": "30",
+                "pf": "20",
+                "rf": "20",
+                "to": "11",
+                "st": "5",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "61",
+                "fouls": "20",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "11-02-2026 - 20:45",
+        "place": "Francisco Pérez Carballo, 2, A Coruña (Coruña, A)",
+        "field": "COLISEUM CORUÑA",
+        "referee1": "CHECA NEBOT, DANIEL",
+        "referee2": "CAAMAÑO MUÑOZ, JORGE",
+        "referee3": "CHACON BLAZQUEZ, ISRAEL",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "81",
+                "fouls": null,
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "14"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "21",
+                    "scoreB": "25"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "21",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "21",
+                    "scoreB": "19"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "13",
+                "p1a": "17",
+                "p1p": "76,5",
+                "p2m": "25",
+                "p2a": "56",
+                "p2p": "44,6",
+                "p3m": "6",
+                "p3a": "26",
+                "p3p": "23,1",
+                "fgm": "31",
+                "fga": "82",
+                "fgp": "37,8",
+                "assist": "28",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "18",
+                "rd": "22",
+                "rt": "40",
+                "pf": "19",
+                "rf": "24",
+                "to": "8",
+                "st": "8",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "81",
+                "fouls": "19",
+                "id": "980004",
+                "name": "LEYMA CORUÑA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=980004&ti=1",
+                "teamCode": "15022000",
+                "clubCode": "150220"
+            },
+            {
+                "p1m": "17",
+                "p1a": "22",
+                "p1p": "77,3",
+                "p2m": "22",
+                "p2a": "37",
+                "p2p": "59,5",
+                "p3m": "5",
+                "p3a": "19",
+                "p3p": "26,3",
+                "fgm": "27",
+                "fga": "56",
+                "fgp": "48,2",
+                "assist": "13",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "3",
+                "rd": "31",
+                "rt": "34",
+                "pf": "24",
+                "rf": "18",
+                "to": "17",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "24",
+                "id": "981125",
+                "name": "CAJA RURAL CB ZAMORA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981125&ti=1",
+                "teamCode": "49000100",
+                "clubCode": "490001"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "21-02-2026 - 19:00",
+        "place": "FINCA SEVILLA, S/N, Ourense (Ourense)",
+        "field": "PAZO DOS DEPORTES PACO PAZ",
+        "referee1": "ALBACETE CHAMON, ANGEL ANTONIO",
+        "referee2": "GARCÍA CRESPO, MARÍA DE LOS ÁNGELES",
+        "referee3": "GARCIA SANTOS, MARC",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "81",
+                "fouls": null,
+                "id": "981493",
+                "name": "CLOUD.GAL OURENSE BALONCESTO ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "pts": "69",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "19",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "18"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "21",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "24",
+                    "scoreB": "20"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "25",
+                "p1a": "31",
+                "p1p": "80,6",
+                "p2m": "22",
+                "p2a": "44",
+                "p2p": "50,0",
+                "p3m": "4",
+                "p3a": "19",
+                "p3p": "21,1",
+                "fgm": "26",
+                "fga": "63",
+                "fgp": "41,3",
+                "assist": "16",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "16",
+                "rd": "27",
+                "rt": "43",
+                "pf": "22",
+                "rf": "26",
+                "to": "20",
+                "st": "10",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "81",
+                "fouls": "22",
+                "id": "981493",
+                "name": "CLOUD.GAL OURENSE BALONCESTO ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981493&ti=1",
+                "teamCode": "32000100",
+                "clubCode": "320001"
+            },
+            {
+                "p1m": "20",
+                "p1a": "25",
+                "p1p": "80,0",
+                "p2m": "20",
+                "p2a": "35",
+                "p2p": "57,1",
+                "p3m": "3",
+                "p3a": "24",
+                "p3p": "12,5",
+                "fgm": "23",
+                "fga": "59",
+                "fgp": "39,0",
+                "assist": "19",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "5",
+                "rd": "19",
+                "rt": "24",
+                "pf": "27",
+                "rf": "22",
+                "to": "16",
+                "st": "14",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "69",
+                "fouls": "27",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

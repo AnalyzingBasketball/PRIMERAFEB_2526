@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "30-01-2026 - 20:45",
+        "place": "C/ CASCAJERA, S/N, Burgos (Burgos)",
+        "field": "POLIDEPORTIVO MUNICIPAL EL PLANTIO",
+        "referee1": "CHECA NEBOT, DANIEL",
+        "referee2": "RODRIGUEZ FERNANDEZ, PABLO",
+        "referee3": "BENAVENTE PARRA, ALEJANDRO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "80",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "pts": "76",
+                "fouls": null,
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "18",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "26",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "16",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "20",
+                    "scoreB": "14"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "17",
+                "p1a": "26",
+                "p1p": "65,4",
+                "p2m": "15",
+                "p2a": "27",
+                "p2p": "55,6",
+                "p3m": "11",
+                "p3a": "27",
+                "p3p": "40,7",
+                "fgm": "26",
+                "fga": "54",
+                "fgp": "48,1",
+                "assist": "11",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "20",
+                "rt": "31",
+                "pf": "23",
+                "rf": "18",
+                "to": "22",
+                "st": "13",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "80",
+                "fouls": "23",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            },
+            {
+                "p1m": "17",
+                "p1a": "24",
+                "p1p": "70,8",
+                "p2m": "16",
+                "p2a": "26",
+                "p2p": "61,5",
+                "p3m": "9",
+                "p3a": "25",
+                "p3p": "36,0",
+                "fgm": "25",
+                "fga": "51",
+                "fgp": "49,0",
+                "assist": "15",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "6",
+                "rd": "16",
+                "rt": "22",
+                "pf": "20",
+                "rf": "23",
+                "to": "20",
+                "st": "13",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "76",
+                "fouls": "20",
+                "id": "981214",
+                "name": "FIBWI MALLORCA BASQUET PALMA ",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981214&ti=1",
+                "teamCode": "07003425",
+                "clubCode": "070034"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

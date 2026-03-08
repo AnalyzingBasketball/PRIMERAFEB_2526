@@ -1,0 +1,170 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 6,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "17-01-2026 - 19:00",
+        "place": "AVDA. DEL CANTÓN S/N, Murcia (Cartagena)",
+        "field": "PALACIO DE LOS DEPORTES DE CARTAGENA",
+        "referee1": "ZAMORA RODRIGUEZ, ANTONIO MANUEL",
+        "referee2": "SANHERMELANDO GARCIA, HECTOR",
+        "referee3": "RUIZ RAMIREZ-CRUZADO, CHRISTIAN",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "89",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "pts": "87",
+                "fouls": null,
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "12",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "20",
+                    "scoreB": "20"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "17",
+                    "scoreB": "21"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "26",
+                    "scoreB": "12"
+                },
+                {
+                    "n": "5",
+                    "scoreA": "7",
+                    "scoreB": "7"
+                },
+                {
+                    "n": "6",
+                    "scoreA": "7",
+                    "scoreB": "5"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "21",
+                "p1a": "28",
+                "p1p": "75,0",
+                "p2m": "19",
+                "p2a": "45",
+                "p2p": "42,2",
+                "p3m": "10",
+                "p3a": "30",
+                "p3p": "33,3",
+                "fgm": "29",
+                "fga": "75",
+                "fgp": "38,7",
+                "assist": "14",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "29",
+                "rt": "37",
+                "pf": "23",
+                "rf": "27",
+                "to": "11",
+                "st": "12",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "89",
+                "fouls": "23",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            },
+            {
+                "p1m": "19",
+                "p1a": "23",
+                "p1p": "82,6",
+                "p2m": "16",
+                "p2a": "36",
+                "p2p": "44,4",
+                "p3m": "12",
+                "p3a": "42",
+                "p3p": "28,6",
+                "fgm": "28",
+                "fga": "78",
+                "fgp": "35,9",
+                "assist": "18",
+                "bs": "4",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "34",
+                "rt": "46",
+                "pf": "27",
+                "rf": "22",
+                "to": "16",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "87",
+                "fouls": "27",
+                "id": "979920",
+                "name": "GRUPO URETA TIZONA BURGOS",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979920&ti=1",
+                "teamCode": "09024901",
+                "clubCode": "090249"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}

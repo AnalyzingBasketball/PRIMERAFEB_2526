@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "22-02-2026 - 18:00",
+        "place": "Plaza, Manuel Fernández de Castro y Pedrera, 2,, Melilla (Melilla)",
+        "field": "PABELLÓN DE DEPORTES JAVIER IMBRODA ORTIZ",
+        "referee1": "AVILA ZURITA, JAVIER (D)",
+        "referee2": "SANCHEZ GONZALEZ, SANDRA",
+        "referee3": "OLMOS OCHOA, FRANCISCO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "83",
+                "fouls": null,
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "pts": "77",
+                "fouls": null,
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "23",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "17",
+                    "scoreB": "22"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "21",
+                    "scoreB": "16"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "17"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "11",
+                "p1a": "17",
+                "p1p": "64,7",
+                "p2m": "21",
+                "p2a": "42",
+                "p2p": "50,0",
+                "p3m": "10",
+                "p3a": "29",
+                "p3p": "34,5",
+                "fgm": "31",
+                "fga": "71",
+                "fgp": "43,7",
+                "assist": "21",
+                "bs": "1",
+                "tc": null,
+                "mt": null,
+                "ro": "12",
+                "rd": "19",
+                "rt": "31",
+                "pf": "19",
+                "rf": "19",
+                "to": "8",
+                "st": "9",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "83",
+                "fouls": "19",
+                "id": "979769",
+                "name": "MELILLA CIUDAD DEL DEPORTE",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979769&ti=1",
+                "teamCode": "52004200",
+                "clubCode": "520042"
+            },
+            {
+                "p1m": "14",
+                "p1a": "17",
+                "p1p": "82,4",
+                "p2m": "21",
+                "p2a": "35",
+                "p2p": "60,0",
+                "p3m": "7",
+                "p3a": "26",
+                "p3p": "26,9",
+                "fgm": "28",
+                "fga": "61",
+                "fgp": "45,9",
+                "assist": "13",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "8",
+                "rd": "30",
+                "rt": "38",
+                "pf": "20",
+                "rf": "19",
+                "to": "18",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "77",
+                "fouls": "20",
+                "id": "979907",
+                "name": "GRUPO ALEGA CANTABRIA",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=979907&ti=1",
+                "teamCode": "39017700",
+                "clubCode": "390177"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}
