@@ -726,7 +726,7 @@ def procesar_estadisticas_acumuladas():
                         parts = pos_str.split('|')
                         if len(parts) >= 2: cx, cy = parts[0], parts[1]
 
-                  # --- TRANSFORMACIÓN CORREGIDA PARA MEDIA PISTA VERTICAL (ARO ABAJO) ---
+                    # --- TRANSFORMACIÓN CORREGIDA PARA MEDIA PISTA VERTICAL (ARO ABAJO) ---
                     shot_x_calc, shot_y_calc = None, None
                     try:
                         if cx is not None and cy is not None:
