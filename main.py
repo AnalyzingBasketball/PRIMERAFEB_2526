@@ -796,10 +796,9 @@ def procesar_estadisticas_acumuladas():
                 df_pbp_match['DURATION'] = df_pbp_match['DURATION'].clip(lower=0)
 
                 cols_pbp_limpio = [
-                    'SHOT_X', 'SHOT_Y',
                     'MATCHID', 'ROUND', 'PERIOD', 'TIME', 'SECONDS_REMAINING', 'TEAM_ID', 'ACTION_TEAM', 'ACTION_TEAM_LOC', 
                     'PLAYER_ID', 'PLAYER', 'PLAYER_NAME', 'PLAYER_POSITION', 'ACTION_TYPE', 'ACTION_TEXT', 
-                    'COORD_X', 'COORD_Y', 'SCORE_H', 'SCORE_A', 
+                    'COORD_X', 'COORD_Y', 'SHOT_X', 'SHOT_Y','SCORE_H', 'SCORE_A', 
                     'H1_PLAYER_ID', 'H1_PLAYER_NAME', 'H1_PLAYER_POS', 'H2_PLAYER_ID', 'H2_PLAYER_NAME', 'H2_PLAYER_POS',
                     'H3_PLAYER_ID', 'H3_PLAYER_NAME', 'H3_PLAYER_POS', 'H4_PLAYER_ID', 'H4_PLAYER_NAME', 'H4_PLAYER_POS',
                     'H5_PLAYER_ID', 'H5_PLAYER_NAME', 'H5_PLAYER_POS',
