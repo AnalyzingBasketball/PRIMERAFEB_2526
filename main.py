@@ -725,11 +725,28 @@ def procesar_estadisticas_acumuladas():
                     if '|' in pos_str:
                         parts = pos_str.split('|')
                         if len(parts) >= 2: cx, cy = parts[0], parts[1]
+
+                    # --- TRANSFORMACIÓN PARA MEDIA PISTA VERTICAL (ARO ABAJO) ---
+                    shot_x_calc, shot_y_calc = None, None
+                    try:
+                        if cx is not None and cy is not None:
+                            orig_x = float(cx)
+                            orig_y = float(cy)
+                            # 1. Espejo (Concentrar todo en 0-50)
+                            flip_x = orig_x if orig_x <= 50 else (100 - orig_x)
+                            # 2. Rotación a Vertical: Nueva X es la Y original, Nueva Y es la X modificada
+                            # Ajustamos para que el aro esté abajo (X original 0 es el aro)
+                            shot_x_calc = orig_y
+                            shot_y_calc = 100 - (flip_x * 2) # Escalamos x2 para ocupar el 100% del alto
+                    except:
+                        pass
                     
                     h_flat = get_5_players_flat(home_on_court, local_match_roster)
                     a_flat = get_5_players_flat(away_on_court, local_match_roster)
 
                     pbp_records.append({
+                        'SHOT_X': shot_x_calc,
+                        'SHOT_Y': shot_y_calc,
                         'MATCHID': match_id, 'ROUND': match_round,
                         'PERIOD': row['quarter'], 'TIME': row['time'], 'SECONDS_REMAINING': row['SECONDS_REMAINING'],
                         'TEAM_ID': action_team_id, 'ACTION_TEAM': action_team, 'ACTION_TEAM_LOC': action_team_loc, 
@@ -779,6 +796,7 @@ def procesar_estadisticas_acumuladas():
                 df_pbp_match['DURATION'] = df_pbp_match['DURATION'].clip(lower=0)
 
                 cols_pbp_limpio = [
+                    'SHOT_X', 'SHOT_Y',
                     'MATCHID', 'ROUND', 'PERIOD', 'TIME', 'SECONDS_REMAINING', 'TEAM_ID', 'ACTION_TEAM', 'ACTION_TEAM_LOC', 
                     'PLAYER_ID', 'PLAYER', 'PLAYER_NAME', 'PLAYER_POSITION', 'ACTION_TYPE', 'ACTION_TEXT', 
                     'COORD_X', 'COORD_Y', 'SCORE_H', 'SCORE_A', 
