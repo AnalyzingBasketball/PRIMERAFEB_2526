@@ -745,14 +745,12 @@ def procesar_estadisticas_acumuladas():
                     a_flat = get_5_players_flat(away_on_court, local_match_roster)
 
                     pbp_records.append({
-                        'SHOT_X': shot_x_calc,
-                        'SHOT_Y': shot_y_calc,
                         'MATCHID': match_id, 'ROUND': match_round,
                         'PERIOD': row['quarter'], 'TIME': row['time'], 'SECONDS_REMAINING': row['SECONDS_REMAINING'],
                         'TEAM_ID': action_team_id, 'ACTION_TEAM': action_team, 'ACTION_TEAM_LOC': action_team_loc, 
                         'PLAYER_ID': p_id, 'PLAYER': p_bruto, 'PLAYER_NAME': p_limpio, 'PLAYER_POSITION': p_pos,
-                        'ACTION_TYPE': action, 'ACTION_TEXT': text, 'COORD_X': cx, 'COORD_Y': cy,
-                        'SCORE_H': row.get('scoreA', ''), 'SCORE_A': row.get('scoreB', ''),
+                        'ACTION_TYPE': action, 'ACTION_TEXT': text, 'COORD_X': cx, 'COORD_Y': cy, 'SHOT_X': shot_x_calc,
+                        'SHOT_Y': shot_y_calc, 'SCORE_H': row.get('scoreA', ''), 'SCORE_A': row.get('scoreB', ''),
                         'H1_PLAYER_ID': h_flat[0], 'H1_PLAYER_NAME': h_flat[1], 'H1_PLAYER_POS': h_flat[2],
                         'H2_PLAYER_ID': h_flat[3], 'H2_PLAYER_NAME': h_flat[4], 'H2_PLAYER_POS': h_flat[5],
                         'H3_PLAYER_ID': h_flat[6], 'H3_PLAYER_NAME': h_flat[7], 'H3_PLAYER_POS': h_flat[8],
