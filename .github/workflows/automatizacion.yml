@@ -1,41 +1,38 @@
-name: Automatizacion Primera FEB Diaria
+name: Actualizar Datos FEB
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 05:00 UTC (06:00 de la mañana en España peninsular)
-    - cron: '0 5 * * *'
-  # Esta línea añade un botón para que puedas ejecutarlo a mano cuando quieras
-  workflow_dispatch: 
+    # Ejecuta el script todos los días a las 04:00 AM UTC
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    # Permite ejecutarlo manualmente desde GitHub cuando quieras
 
 jobs:
-  actualizar-datos:
+  actualizar_datos:
     runs-on: ubuntu-latest
-    
-    # Permisos críticos para que GitHub pueda guardar los CSV de vuelta en tu repositorio
-    permissions:
-      contents: write
 
     steps:
-      - name: 1. Descargar el código y los datos previos
+      - name: Descargar el repositorio
         uses: actions/checkout@v4
 
-      - name: 2. Configurar el entorno Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 3. Ejecutar tu Motor ETL
-        # Aquí inyectamos el secreto de forma segura para tu Módulo 4
-        env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ejecutar el script ETL
         run: |
           python main.py
 
-      - name: 4. Guardar los nuevos datos en el repositorio
+      - name: Guardar los CSV generados en el repositorio
         run: |
-          git config --global user.name "Bot-Automatizacion"
-          git config --global user.email "bot@github.actions"
-          # Añadimos la carpeta de datos para que se guarde el progreso
-          git add data/
-          # Comprobamos si hay cambios. Si los hay, se guardan; si no, termina silenciosamente.
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización automática de CSV y JSONs" && git push)
+          git config --local user.name "GitHub Actions Bot"
+          git config --local user.email "actions@github.com"
+          git add data/*.csv
+          git add data/raw_api/*.json
+          git commit -m "Actualización automática de datos FEB" || echo "No hay cambios para subir"
+          git push
