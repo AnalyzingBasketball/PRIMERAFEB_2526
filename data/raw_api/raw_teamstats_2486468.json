@@ -1,0 +1,160 @@
+{
+    "HEADER": {
+        "CompID": "115",
+        "competition": "PRIMERA FEB",
+        "round": "Único               ",
+        "quarter": 4,
+        "time": "FINAL",
+        "logo": null,
+        "duration": null,
+        "starttime": "10-03-2026 - 20:00",
+        "place": "DIEGO BERNAL, S/N - MULTIUSOS FONTES DO SAR, A Coruña (Santiago de Compostela)",
+        "field": "MULTIUSOS FONTES DO SAR",
+        "referee1": "ALBACETE CHAMON, ANGEL ANTONIO",
+        "referee2": "SIERRA CARRILLO, JOSE CARLOS",
+        "referee3": "DEL VAL NUÑO, SERGIO",
+        "status": "3",
+        "statusText": "FINISHED",
+        "TEAM": [
+            {
+                "pts": "101",
+                "fouls": null,
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            },
+            {
+                "pts": "49",
+                "fouls": null,
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            }
+        ],
+        "QUARTERS": {
+            "QUARTER": [
+                {
+                    "n": "1",
+                    "scoreA": "26",
+                    "scoreB": "7"
+                },
+                {
+                    "n": "2",
+                    "scoreA": "25",
+                    "scoreB": "13"
+                },
+                {
+                    "n": "3",
+                    "scoreA": "28",
+                    "scoreB": "15"
+                },
+                {
+                    "n": "4",
+                    "scoreA": "22",
+                    "scoreB": "14"
+                }
+            ]
+        }
+    },
+    "SCOREBOARD": null,
+    "TEAMSTATS": {
+        "duration": null,
+        "TEAM": [
+            {
+                "p1m": "14",
+                "p1a": "17",
+                "p1p": "82,4",
+                "p2m": "27",
+                "p2a": "44",
+                "p2p": "61,4",
+                "p3m": "11",
+                "p3a": "25",
+                "p3p": "44,0",
+                "fgm": "38",
+                "fga": "69",
+                "fgp": "55,1",
+                "assist": "27",
+                "bs": "3",
+                "tc": null,
+                "mt": null,
+                "ro": "11",
+                "rd": "37",
+                "rt": "48",
+                "pf": "18",
+                "rf": "21",
+                "to": "11",
+                "st": "7",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "101",
+                "fouls": "18",
+                "id": "981421",
+                "name": "MONBUS OBRADOIRO",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981421&ti=1",
+                "teamCode": "15040900",
+                "clubCode": "150409"
+            },
+            {
+                "p1m": "7",
+                "p1a": "9",
+                "p1p": "77,8",
+                "p2m": "6",
+                "p2a": "32",
+                "p2p": "18,8",
+                "p3m": "10",
+                "p3a": "29",
+                "p3p": "34,5",
+                "fgm": "16",
+                "fga": "61",
+                "fgp": "26,2",
+                "assist": "16",
+                "bs": "2",
+                "tc": null,
+                "mt": null,
+                "ro": "7",
+                "rd": "19",
+                "rt": "26",
+                "pf": "21",
+                "rf": "18",
+                "to": "15",
+                "st": "6",
+                "fastb": null,
+                "ptsto": null,
+                "secpts": null,
+                "bench": null,
+                "paint": null,
+                "min": null,
+                "minFormatted": "0:00",
+                "val": null,
+                "pts": "49",
+                "fouls": "21",
+                "id": "981251",
+                "name": "GRUPO CAESA SEGUROS FC CARTAGENA CB",
+                "logo": "https://imagenes.feb.es/imagen.aspx?i=981251&ti=1",
+                "teamCode": "30018800",
+                "clubCode": "300188"
+            }
+        ]
+    },
+    "TICKER": {
+        "text": null,
+        "duration": null,
+        "ITEM": null
+    },
+    "OVERVIEW": null,
+    "PLAYBYPLAY": null,
+    "BANNER": null,
+    "BOXSCORE": null,
+    "SHOTCHART": null,
+    "RANKING": null
+}
